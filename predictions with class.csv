@@ -1,0 +1,2803 @@
+Name,column_with_predictions,label,Class,count
+temsirolimus,4,4,CdV,1438
+Vascunicol,1,1,Ainfec,3212
+Benphothiamine,2,2,Ainfla,515
+Tamoxifen,4,4,CdV,1438
+Bambuterol,0,0,AN,1590
+Medazepam,3,3,CNS,1632
+bexarotene,5,5,Gi,360
+Famotidine,3,3,CNS,1632
+Enflurane,0,0,AN,1590
+Naftifine,1,1,Ainfec,3212
+Novo-depigman,1,1,Ainfec,3212
+Fluocortolone,1,1,Ainfec,3212
+Guaiacol carbonate,3,3,CNS,1632
+Isoleucine,2,2,Ainfla,515
+Lobeline,3,3,CNS,1632
+Loracarbef,1,1,Ainfec,3212
+Estradiol cypionate,4,4,CdV,1438
+Bendroflumethiazide,3,3,CNS,1632
+sitagliptin,0,0,AN,1590
+Lisdexamfetamine,3,3,CNS,1632
+Isobarbaloin,5,5,Gi,360
+Israpafant,0,0,AN,1590
+Adipic acid,3,3,CNS,1632
+Fentiazac,2,2,Ainfla,515
+Diclorofeno,1,1,Ainfec,3212
+Protokylol,4,4,CdV,1438
+Iloperidone,3,3,CNS,1632
+Perflubron,1,1,Ainfec,3212
+risperidone,3,3,CNS,1632
+Oxazepam,3,3,CNS,1632
+Polaprezinc,5,5,Gi,360
+Midostaurin,0,0,AN,1590
+Rapacuronium,3,3,CNS,1632
+Doxepin,1,1,Ainfec,3212
+malathion,1,1,Ainfec,3212
+Cefovecin,1,1,Ainfec,3212
+Ecothiopate iodide,4,4,CdV,1438
+Clorprenaline,1,1,Ainfec,3212
+Hetacillin,1,1,Ainfec,3212
+Reboxetine,3,3,CNS,1632
+Demeclocycline,1,1,Ainfec,3212
+Romurtide,1,1,Ainfec,3212
+Tenofovir disoproxil fumarate,1,1,Ainfec,3212
+"6-(2,5-Dichlorophenyl)-2,4-diamino-1,3,5-triazine",3,3,CNS,1632
+Clotiapine,1,1,Ainfec,3212
+Miltefosine,0,0,AN,1590
+Terconazole,1,1,Ainfec,3212
+Levotofisopam,3,3,CNS,1632
+Transfluthrin,3,3,CNS,1632
+Prulifloxacin,2,2,Ainfla,515
+Nsc 7104,0,0,AN,1590
+Hydrocortisone phosphate,0,0,AN,1590
+Repirinast,4,4,CdV,1438
+Pralidoxime ,2,2,Ainfla,515
+Benzonatate,3,3,CNS,1632
+Eplerenone,1,1,Ainfec,3212
+Meropenem,1,1,Ainfec,3212
+Oxyquinoline,4,4,CdV,1438
+Pipecuronium,1,1,Ainfec,3212
+Sodium thiosalicylate,1,1,Ainfec,3212
+Acarbose,1,1,Ainfec,3212
+dihydrocodeine,3,3,CNS,1632
+Eperisone,3,3,CNS,1632
+irinotecan,3,3,CNS,1632
+P-nitrophenyl-o-ethyl ethylphosphonate,0,0,AN,1590
+Dimethisterone,0,0,AN,1590
+Gefarnate,5,5,Gi,360
+milnacipran,0,0,AN,1590
+s-methylmethionine,3,3,CNS,1632
+Estrone sulfate,0,0,AN,1590
+Triazolam,3,3,CNS,1632
+Sulfaguanidine,1,1,Ainfec,3212
+Ergocalciferol,0,0,AN,1590
+Nimustine,1,1,Ainfec,3212
+Clofenamide,4,4,CdV,1438
+Bethanechol,1,1,Ainfec,3212
+Gluconolactone,0,0,AN,1590
+"(4-(P-(diethylamino)-alpha-phenylbenzylidene)-2,5-cyclohexadien-1-ylidene)diethylammonium sulfate",3,3,CNS,1632
+Phenmetrazine,1,1,Ainfec,3212
+Mono(2-((1-oxo-9-octadecenyl)amino)ethyl) sulfobutanedioic acid disoium salt,1,1,Ainfec,3212
+"Butoctamide hydrogen succinate, monosodium salt",1,1,Ainfec,3212
+Vitamin a palmitate,0,0,AN,1590
+Gadoteric acid,0,0,AN,1590
+Trimetrexate,0,0,AN,1590
+ximelagatran,1,1,Ainfec,3212
+2-Phenylethanol,3,3,CNS,1632
+N-(2-ethyl-2-(3-methoxyphenyl)butyl)-4-hydroxybutanamide,1,1,Ainfec,3212
+Cifenline,1,1,Ainfec,3212
+Piroctone,3,3,CNS,1632
+Benzyl cinnamate,4,4,CdV,1438
+3-(Benzoyloxy)-8-methyl-8-azabicyclo(3.2.1)octane-2-carboxylic acid,1,1,Ainfec,3212
+Lipoyllysine,3,3,CNS,1632
+Etilefrine,4,4,CdV,1438
+Metixene,3,3,CNS,1632
+Amprenavir,1,1,Ainfec,3212
+taltirelin,3,3,CNS,1632
+Clidinium,2,2,Ainfla,515
+Esonarimod,3,3,CNS,1632
+Piroheptine,0,0,AN,1590
+Norfloxacin,0,0,AN,1590
+P-t-butyl-m-cresol,3,3,CNS,1632
+Trypan blue,0,0,AN,1590
+Tibolone,4,4,CdV,1438
+Clenbuterol,3,3,CNS,1632
+Methdilazine,4,4,CdV,1438
+Carpronium,0,0,AN,1590
+Paricalcitol,0,0,AN,1590
+protoporphyrin ix,1,1,Ainfec,3212
+Bronopol,2,2,Ainfla,515
+Azapropazone,3,3,CNS,1632
+Brucine,4,4,CdV,1438
+Docarpamine,4,4,CdV,1438
+Histrelin,4,4,CdV,1438
+Carbocromenum,5,5,Gi,360
+Dimethicone,1,1,Ainfec,3212
+voglibose,0,0,AN,1590
+Valine,4,4,CdV,1438
+Coumarin,1,1,Ainfec,3212
+2-(4-Morpholino)thiobenzothiazole,1,1,Ainfec,3212
+Cloflucarban,2,2,Ainfla,515
+Aminophenazone,1,1,Ainfec,3212
+carbazochrome,4,4,CdV,1438
+Clopamide,0,0,AN,1590
+Liarozole,0,0,AN,1590
+Sitaxentan,2,2,Ainfla,515
+Deferoxamine,0,0,AN,1590
+Anethole,3,3,CNS,1632
+Timepidium,1,1,Ainfec,3212
+Pyrvinium pamoate,4,4,CdV,1438
+Bepridil,1,1,Ainfec,3212
+Nipradilol,4,4,CdV,1438
+Benzylhydrochlorothiazide,4,4,CdV,1438
+Tetragastrin,1,1,Ainfec,3212
+Ticarcillin,4,4,CdV,1438
+Ceruletide,3,3,CNS,1632
+Cloperastine,4,4,CdV,1438
+Colesevelam,1,1,Ainfec,3212
+Lenapenem,1,1,Ainfec,3212
+Chromomycin,0,0,AN,1590
+letrozole,3,3,CNS,1632
+Fexofenadine,0,0,AN,1590
+Latamoxef,1,1,Ainfec,3212
+Mecillinam,1,1,Ainfec,3212
+Isosorbide dinitrate,4,4,CdV,1438
+5-Methyl-1-phenyl-2-(1h)-pyridone,3,3,CNS,1632
+Picrotin,1,1,Ainfec,3212
+Nitrofurantoin,3,3,CNS,1632
+tazarotene,1,1,Ainfec,3212
+Aluminum monostearate,4,4,CdV,1438
+Perlapine,1,1,Ainfec,3212
+Calcium sulfocarbolate,4,4,CdV,1438
+Oxprenolol,3,3,CNS,1632
+clorazepate,3,3,CNS,1632
+atazanavir,1,1,Ainfec,3212
+Etravirine,1,1,Ainfec,3212
+Clobetasone,0,0,AN,1590
+Tetracycline,1,1,Ainfec,3212
+Imipenem,1,1,Ainfec,3212
+Antimony tartrate,1,1,Ainfec,3212
+Cilazapril,4,4,CdV,1438
+butylscopolamine,2,2,Ainfla,515
+eicosapentaenoic,4,4,CdV,1438
+Droxidopa,3,3,CNS,1632
+Methenamine sulfate,1,1,Ainfec,3212
+Lauryl isoquinolinium saccharinate,1,1,Ainfec,3212
+Cefixime,4,4,CdV,1438
+Josamycin,4,4,CdV,1438
+Cadralazine,1,1,Ainfec,3212
+Buserelin,4,4,CdV,1438
+Manidipine,1,1,Ainfec,3212
+Cefteram,0,0,AN,1590
+rosiglitazone,0,0,AN,1590
+Dofetilide,4,4,CdV,1438
+Droperidol,3,3,CNS,1632
+Bromfenac,2,2,Ainfla,515
+Cefpiramide,4,4,CdV,1438
+Enoximonum,1,1,Ainfec,3212
+Carbetocin,4,4,CdV,1438
+dexamethasone palmitate,3,3,CNS,1632
+4-Aminobutyric acid,2,2,Ainfla,515
+Dextrorphan,3,3,CNS,1632
+Ritropirronium bromide,3,3,CNS,1632
+"B 5097, ba",1,1,Ainfec,3212
+Estrone,0,0,AN,1590
+Petoxil,3,3,CNS,1632
+Ethynodiol diacetate,0,0,AN,1590
+Octreotide,3,3,CNS,1632
+Bromhexine,1,1,Ainfec,3212
+metildigoxin,1,1,Ainfec,3212
+Bacampicillin,4,4,CdV,1438
+Gamma oryzanol,2,2,Ainfla,515
+Triamcinolone diacetate,3,3,CNS,1632
+Ibuprofen,0,0,AN,1590
+Uracil,4,4,CdV,1438
+lauryl sulfate,1,1,Ainfec,3212
+Tetradecanoic acid 1-methylethyl ester,3,3,CNS,1632
+Oxybuprocaine,1,1,Ainfec,3212
+Cefdinir,3,3,CNS,1632
+2-(Ethylthio)-10-(3-(4-methylpiperazin-1-yl)propyl)-10h-phenothiazine,5,5,Gi,360
+Gallopamil,4,4,CdV,1438
+Iohexol,1,1,Ainfec,3212
+Nabumetone,0,0,AN,1590
+Fluorouracil,1,1,Ainfec,3212
+Amprolio,2,2,Ainfla,515
+"N-(2-bromo-6-fluorophenyl)-4,5-dihydro-(1h)-imidazol-2-amine",3,3,CNS,1632
+Epothilone b,2,2,Ainfla,515
+etoricoxib,3,3,CNS,1632
+Caffeine anhydrous,0,0,AN,1590
+Tiagabine,1,1,Ainfec,3212
+Furazolidone,3,3,CNS,1632
+Cefpirome ,1,1,Ainfec,3212
+Limaprost,0,0,AN,1590
+Azathioprine,4,4,CdV,1438
+Etacrynic acid,1,1,Ainfec,3212
+cefcapene,1,1,Ainfec,3212
+Ulobetasol propionate,3,3,CNS,1632
+"2H-benzo(a)quinolizine-3-carboxamide, 2-(acetyloxy)-n,n-diethyl-1,3,4,6,7,11b-hexahydro-9,10-dimethoxy-, hydrochloride",1,1,Ainfec,3212
+Acriflavinium chloride,4,4,CdV,1438
+Cyclizine,1,1,Ainfec,3212
+Trifluridine,4,4,CdV,1438
+Seocalcitol,0,0,AN,1590
+Icatibantum,3,3,CNS,1632
+Fezatione,4,4,CdV,1438
+Proxyphylline,3,3,CNS,1632
+Clorexolone,3,3,CNS,1632
+Thiothixene,3,3,CNS,1632
+Dibenzepin,2,2,Ainfla,515
+Fluocortolone 21-caproate,5,5,Gi,360
+Bisacodyl,2,2,Ainfla,515
+Bms 181176-14,1,1,Ainfec,3212
+Gadodiamide,0,0,AN,1590
+Melphalan,0,0,AN,1590
+Protizinic acid,4,4,CdV,1438
+Nicotinic acid,3,3,CNS,1632
+Methyl aminolevulinate hydrochloride,1,1,Ainfec,3212
+saralasin,4,4,CdV,1438
+Diltiazem,4,4,CdV,1438
+Nitroglycerin,4,4,CdV,1438
+Benzylparaben,2,2,Ainfla,515
+Minodronic acid,1,1,Ainfec,3212
+Cocarboxylase,1,1,Ainfec,3212
+Fabesetron,4,4,CdV,1438
+budesonide,3,3,CNS,1632
+Oxyphenonium bromide,3,3,CNS,1632
+Skatolum,3,3,CNS,1632
+Metyrosine,2,2,Ainfla,515
+Tilisolol,4,4,CdV,1438
+Lypressin,4,4,CdV,1438
+Felypressin,4,4,CdV,1438
+sunitinib,0,0,AN,1590
+Nebramycin,1,1,Ainfec,3212
+Clinofibrate,1,1,Ainfec,3212
+bimatoprost,4,4,CdV,1438
+Para-hydroxypropiophenone,4,4,CdV,1438
+Gemeprost,1,1,Ainfec,3212
+Sulfametomidine,1,1,Ainfec,3212
+.Alpha.-5-norbornen-2-yl-.alpha.-phenyl-1-piperidinepropanol lactate (salt),3,3,CNS,1632
+Apomorphine,2,2,Ainfla,515
+"Sodium 3, 4-dimethylphenyl-glyoxylate",3,3,CNS,1632
+Protirelin,1,1,Ainfec,3212
+"1,3,5-Trimethoxybenzene",3,3,CNS,1632
+Estradiol dipropionate,3,3,CNS,1632
+Methylbenactyzium bromide,3,3,CNS,1632
+Dexivacaine,4,4,CdV,1438
+Sodium tetradecyl sulfate,0,0,AN,1590
+Propyliodone,4,4,CdV,1438
+Miglitol,1,1,Ainfec,3212
+Fluvastatin,3,3,CNS,1632
+Trifluopromazine,4,4,CdV,1438
+pitavastatin,2,2,Ainfla,515
+Pipethanate ethobromide,4,4,CdV,1438
+"Benzenemethanamine, n-(2-chloroethyl)-n-(1-methyl-2-phenoxyethyl)-",3,3,CNS,1632
+Escalol 506,4,4,CdV,1438
+Mofezolac,4,4,CdV,1438
+Mebezonium iodide,2,2,Ainfla,515
+Danazol,4,4,CdV,1438
+Hexoprenaline,0,0,AN,1590
+(S)-2-amino-4-(methylselenyl-(sup 75)se)butyric acid,0,0,AN,1590
+Ciprofibrate,3,3,CNS,1632
+Pasiniazid,4,4,CdV,1438
+Sulindac,1,1,Ainfec,3212
+Phenylcarbinol,2,2,Ainfla,515
+Cefamandole,1,1,Ainfec,3212
+Prosultiamine,1,1,Ainfec,3212
+Pemetrexed,1,1,Ainfec,3212
+Triamterene,0,0,AN,1590
+Alphacetylmethadol,3,3,CNS,1632
+Pilocarpine,3,3,CNS,1632
+"(1,1'-Biphenyl)-3-carboxylic acid, 3'-((2z)-(1-(3,4-dimethylphenyl)-1,5-dihydro-3-methyl-5-oxo-4h-pyrazol-4-ylidene)hydrazino)-2'-hydroxy-",1,1,Ainfec,3212
+"Phenol, 2,2'-methylenebis(3,4,6-trichloro)-",0,0,AN,1590
+clindamycin,1,1,Ainfec,3212
+Adefovir,1,1,Ainfec,3212
+Ecabet,1,1,Ainfec,3212
+Cefotaxime,4,4,CdV,1438
+Nicoboxil,3,3,CNS,1632
+"Dihydrochloride, perazin",2,2,Ainfla,515
+Pheniramine bimaleate,4,4,CdV,1438
+Trazodone hydrochloride,3,3,CNS,1632
+Timiperone,3,3,CNS,1632
+Rifabutin,1,1,Ainfec,3212
+Nystatin A1,1,1,Ainfec,3212
+Cloxacillin,1,1,Ainfec,3212
+Iomazenil ((sup 123)i),3,3,CNS,1632
+oxandrolone,3,3,CNS,1632
+Ipratropium,5,5,Gi,360
+Gliclazide,3,3,CNS,1632
+Fleroxacin,0,0,AN,1590
+Timolol,4,4,CdV,1438
+Sertindol,3,3,CNS,1632
+Sevoflurane,3,3,CNS,1632
+Dilazep,3,3,CNS,1632
+Tizanidine,4,4,CdV,1438
+Nor-methadone,4,4,CdV,1438
+almotriptan,3,3,CNS,1632
+Dexpanthenol,3,3,CNS,1632
+testosterone undecylate,0,0,AN,1590
+Testosterone phenyl propionate,2,2,Ainfla,515
+Oxymetholone,2,2,Ainfla,515
+F-6066,0,0,AN,1590
+Mesterolone,1,1,Ainfec,3212
+N-benzoyl-l-tyrosyl-paba,3,3,CNS,1632
+Vindesine,1,1,Ainfec,3212
+Ampiroxicam,2,2,Ainfla,515
+Pregnenolone,4,4,CdV,1438
+Bufogenin,1,1,Ainfec,3212
+Emorfazone,0,0,AN,1590
+Trenbolone acetate,0,0,AN,1590
+Milacainide,3,3,CNS,1632
+Pyridine-3-carboxylic acid benzyl ester,3,3,CNS,1632
+Lanperisone hydrochloride,4,4,CdV,1438
+Prasterone sulfate,1,1,Ainfec,3212
+Cefamandole,0,0,AN,1590
+Acemetacin,2,2,Ainfla,515
+Lefetamina,3,3,CNS,1632
+Bisoprolol,4,4,CdV,1438
+Pirmenol,3,3,CNS,1632
+Dalcotidine,4,4,CdV,1438
+"N,n'-1,2-ethanediylbis (n-butyl-4-morpholinecarboxamide)",0,0,AN,1590
+repaglinide,3,3,CNS,1632
+Tiapride,0,0,AN,1590
+1-(10-(3-(4-(2-Hydroxyethyl)-1-piperidinyl)propyl)-10h-phenothiazin-2-yl)ethanone,3,3,CNS,1632
+Hexylcaine,3,3,CNS,1632
+Rubitecan,0,0,AN,1590
+Spiramycin i,1,1,Ainfec,3212
+Cefditoren,3,3,CNS,1632
+Ethoheptazine hcl,1,1,Ainfec,3212
+Bunitrolol,1,1,Ainfec,3212
+Glyclopyramide,4,4,CdV,1438
+Mebutamate,3,3,CNS,1632
+Decoquinate,1,1,Ainfec,3212
+Dactinomycin,1,1,Ainfec,3212
+"Thiamphenicol, 3-fluoro",1,1,Ainfec,3212
+Glipizide,3,3,CNS,1632
+Gastrophyllin-a,3,3,CNS,1632
+Flurazepam,1,1,Ainfec,3212
+Clioquinol,1,1,Ainfec,3212
+Piprinhydrinate,3,3,CNS,1632
+Yohimbin,1,1,Ainfec,3212
+Cycotiamine,4,4,CdV,1438
+Clomiphene,0,0,AN,1590
+Abbott brand of pipobroman,3,3,CNS,1632
+Edarabone,0,0,AN,1590
+Dibekacin,1,1,Ainfec,3212
+Fosamprenavir,1,1,Ainfec,3212
+Spironolactone,0,0,AN,1590
+busulfan,0,0,AN,1590
+Nemonapride,3,3,CNS,1632
+Betiatide,1,1,Ainfec,3212
+Quinisocaine,3,3,CNS,1632
+Temoporfin,3,3,CNS,1632
+Ethyl 4-(bis (hydroxypropyl)) aminobenzoate,2,2,Ainfla,515
+Estradiol benzoate,4,4,CdV,1438
+Ramipril,3,3,CNS,1632
+Clopidogrel,4,4,CdV,1438
+Cilomilast,1,1,Ainfec,3212
+Ellagic acid,1,1,Ainfec,3212
+Cefradine,0,0,AN,1590
+Levallorphan,3,3,CNS,1632
+Oxytetracycline,1,1,Ainfec,3212
+Suxibuzone,2,2,Ainfla,515
+Novartis brand of dimethindene maleate,3,3,CNS,1632
+Paroxetine,3,3,CNS,1632
+Trichlorcarban,1,1,Ainfec,3212
+Ethambutol,1,1,Ainfec,3212
+Butalbital,3,3,CNS,1632
+Benzoylglycine,1,1,Ainfec,3212
+tribenoside,3,3,CNS,1632
+Talbutal,1,1,Ainfec,3212
+"A, coenzym",2,2,Ainfla,515
+mifepristone,3,3,CNS,1632
+Metofluthrin [iso],1,1,Ainfec,3212
+valganciclovir,0,0,AN,1590
+Mestanolone,5,5,Gi,360
+Alatrofloxacin,0,0,AN,1590
+Ropivacaine,4,4,CdV,1438
+Guanadrel,3,3,CNS,1632
+prednisolone,3,3,CNS,1632
+Halazepam,1,1,Ainfec,3212
+Meticillin,3,3,CNS,1632
+Aniracetam,2,2,Ainfla,515
+Diphenylimidazole,0,0,AN,1590
+Haloxazolam,3,3,CNS,1632
+Mezlocillin,1,1,Ainfec,3212
+Tannic acid glycerite,0,0,AN,1590
+cyproterone,3,3,CNS,1632
+Finasteride,0,0,AN,1590
+colchicine,2,2,Ainfla,515
+piroxicam,2,2,Ainfla,515
+Fluticasone furoate,1,1,Ainfec,3212
+"1-(P-chlorophenoxy)-1-imidazol-1-yl-3,3-dimethyl-2-butanone",0,0,AN,1590
+Altrenogest,1,1,Ainfec,3212
+Tribromsalan,3,3,CNS,1632
+Ramelteon,2,2,Ainfla,515
+Butyl-p-hydroxybenzoate,0,0,AN,1590
+Daiace,0,0,AN,1590
+"Disodium 2,3,4,5-tetrachloro-6-(2,4,5,7-tetraiodo-6-oxido-3-oxo-3h-xanthen-9-yl)benzoate",1,1,Ainfec,3212
+Bifonazole,0,0,AN,1590
+Butropium,3,3,CNS,1632
+Nalmefene,1,1,Ainfec,3212
+desloratadine,5,5,Gi,360
+"2,2'-Dihydroxy-4-methoxybenzophenone",0,0,AN,1590
+Acetyltributyl citrate,4,4,CdV,1438
+Selamectin,1,1,Ainfec,3212
+Cefbuperazone,4,4,CdV,1438
+oxybutynin,0,0,AN,1590
+"Indigo blue, solubl",1,1,Ainfec,3212
+Warfarin,1,1,Ainfec,3212
+Para-tertiary-butilphenol-formaldehyde resin,2,2,Ainfla,515
+Zanapezilum,4,4,CdV,1438
+Doconexent,2,2,Ainfla,515
+Nepafenac,1,1,Ainfec,3212
+Diethylcarbamazine,1,1,Ainfec,3212
+Desmopressin,1,1,Ainfec,3212
+Tiludronic acid,0,0,AN,1590
+Sodium amidotrizoate,1,1,Ainfec,3212
+3-Ethyl-thio-isonicotamide,0,0,AN,1590
+Desoxycorticosterone pivalate,4,4,CdV,1438
+"Naphtho(1,2-b)furan-2,8(3h,4h)-dione, 3a,5,5a,9b-tetrahydro-3,5a,9-trimethyl-, (3s-(3alpha,3aalpha,5abeta,9bbeta))-",1,1,Ainfec,3212
+Mitobronitol,0,0,AN,1590
+Sulfamonomethoxine,1,1,Ainfec,3212
+Zolazepam,1,1,Ainfec,3212
+Acide arsanilique,3,3,CNS,1632
+Cimetidine,5,5,Gi,360
+Xipamide,4,4,CdV,1438
+Dinoprost,4,4,CdV,1438
+Lazabemide hydrochloride,3,3,CNS,1632
+Sodium tyropanoate,2,2,Ainfla,515
+Megestrol acetate,3,3,CNS,1632
+Santoquin,0,0,AN,1590
+Buclizine,3,3,CNS,1632
+Iopanoic acid,3,3,CNS,1632
+Salinomycin,4,4,CdV,1438
+Pargyline,1,1,Ainfec,3212
+"Ethanaminium, n-(4-((4-(diethylamino)phenyl)(2,5-disulfophenyl)methylene)-2,5-cyclohexadien-1-ylidene)-n-ethyl-, inner salt, sodium salt",4,4,CdV,1438
+Exametazime,1,1,Ainfec,3212
+thiamylal,3,3,CNS,1632
+Dicoumarol,1,1,Ainfec,3212
+Menthone,3,3,CNS,1632
+Secobarbital,2,2,Ainfla,515
+Pyritinol,1,1,Ainfec,3212
+"Salicyl alcohol, monosodium salt",3,3,CNS,1632
+Hydrocortisone acetate,3,3,CNS,1632
+Propoxycaine,4,4,CdV,1438
+Olprinone,0,0,AN,1590
+Ranimustine,2,2,Ainfla,515
+Hydrocortisone butyrate,2,2,Ainfla,515
+"1,6-Bis(3-(3-carboxymethylphenyl)-4-(a-d-mannopyranosyl)oxyphenyl)hexane",3,3,CNS,1632
+Piracetam,1,1,Ainfec,3212
+"Cinnamyl alcohol, titanium (4+) salt",1,1,Ainfec,3212
+Sulfamethoxazole,3,3,CNS,1632
+Piperocaine,4,4,CdV,1438
+Trapidil,5,5,Gi,360
+Fructose,0,0,AN,1590
+Colocynth,4,4,CdV,1438
+Triamcinolone hexacetonide,2,2,Ainfla,515
+5-Oxopro-his-trp-ser-tyr-d-trp-leu-arg-pro-gly-nh2 pamoate,2,2,Ainfla,515
+Beclomethasone dipropionate,2,2,Ainfla,515
+Clobetasol propionate,0,0,AN,1590
+Leucodinine b,0,0,AN,1590
+Candoxatrilat,0,0,AN,1590
+Valdecoxib,2,2,Ainfla,515
+"2H-1-benzothiopyran-2-one, 3-(3-(4'-bromo(1,1'-biphenyl)-4-yl)-1,2,3,4-tetrahydro-1-naphthalenyl)-4-hydroxy-",3,3,CNS,1632
+Carbidopa,0,0,AN,1590
+Topotecan,3,3,CNS,1632
+Ambenonium chloride,0,0,AN,1590
+Betamethasone butyrate propionate,5,5,Gi,360
+Lactulose,2,2,Ainfla,515
+Gestonorone caproate,3,3,CNS,1632
+Desipramine,0,0,AN,1590
+Dopamine,1,1,Ainfec,3212
+Tri(hydroxymethyl)aminomethane,4,4,CdV,1438
+Chlormethine,0,0,AN,1590
+Ceftriaxone,1,1,Ainfec,3212
+Clobenzorex,4,4,CdV,1438
+Piromidic acid,1,1,Ainfec,3212
+Cetrorelix,0,0,AN,1590
+imiquimod,1,1,Ainfec,3212
+"2-Phenyl-1,3-indandione",1,1,Ainfec,3212
+Indinavir,0,0,AN,1590
+Nitrogen mustard n-oxide hydrochloride,0,0,AN,1590
+P-tert-octylphenol,4,4,CdV,1438
+Brimonidine,4,4,CdV,1438
+Dinoprostone,1,1,Ainfec,3212
+Epsiprantel,1,1,Ainfec,3212
+Betamethasone valerate,2,2,Ainfla,515
+emetine,1,1,Ainfec,3212
+Adrenochrome monoguanylhydrazone methanesulfonate,3,3,CNS,1632
+Testosterone enanthate,0,0,AN,1590
+Canerenoate,1,1,Ainfec,3212
+Enrofloxacin,0,0,AN,1590
+Tocofersolanum,3,3,CNS,1632
+"4-Isoxazolecarboxamide, 5-methyl-n-(4-(trifluoromethyl)phenyl)-",4,4,CdV,1438
+benexate,4,4,CdV,1438
+Koe 117,4,4,CdV,1438
+Tioconazole,1,1,Ainfec,3212
+etonogestrel,1,1,Ainfec,3212
+Ioversol,0,0,AN,1590
+maraviroc,5,5,Gi,360
+Guaifenesin,1,1,Ainfec,3212
+"Amyltricresol, secondary",3,3,CNS,1632
+"2-Methyl-1,4-naphthalenediol",1,1,Ainfec,3212
+Nkk-105,1,1,Ainfec,3212
+conivaptan,1,1,Ainfec,3212
+dapsone,3,3,CNS,1632
+Phthalylsulfathiazole,4,4,CdV,1438
+"Bicyclo(2.2.1)heptan-2-amine, n,2,3,3-tetramethyl-",1,1,Ainfec,3212
+Methimazole,1,1,Ainfec,3212
+nitazoxanide,0,0,AN,1590
+Pirlimycin,1,1,Ainfec,3212
+"Benzene, 1,2,4-trichloro-5-((3-iodo-2-propynyl)oxy)-",1,1,Ainfec,3212
+Acetyldigitoxin,4,4,CdV,1438
+Perindopril,1,1,Ainfec,3212
+Ritipenem acoxil hydrate,3,3,CNS,1632
+Airomate,1,1,Ainfec,3212
+Glucosamine,1,1,Ainfec,3212
+Pivampicillin,4,4,CdV,1438
+"(3 Alpha,5 alpha,20s)-pregnane-3,20-diol",4,4,CdV,1438
+Acetylcholine chloride,4,4,CdV,1438
+Methyclothiazide,2,2,Ainfla,515
+Tigecycline,1,1,Ainfec,3212
+"3-(2',4',5'-Triethoxybenzoyl)propionic acid, sodium salt",5,5,Gi,360
+Tenatoprazole,1,1,Ainfec,3212
+Firocoxib,3,3,CNS,1632
+Rifapentine,4,4,CdV,1438
+Monatepil maleate,4,4,CdV,1438
+"5-(2-(2-Butoxyethoxy)ethoxymethyl)-6-propyl-1,3-benzodioxole",4,4,CdV,1438
+Procainamide,1,1,Ainfec,3212
+lutein,0,0,AN,1590
+Ondansetron,3,3,CNS,1632
+Rotigotine,3,3,CNS,1632
+Fluoxymesterone,0,0,AN,1590
+Uramustine,2,2,Ainfla,515
+"2-(1,3- Dihydro-3-oxo-2h-indol-2-ylidene)-1,2-dihydro- 3h-indol-3-one",0,0,AN,1590
+Etiracetam,3,3,CNS,1632
+Hyaluronic acid,3,3,CNS,1632
+Acido aminocaproico,1,1,Ainfec,3212
+Dihydroergocristine mesylate,0,0,AN,1590
+anastrozole,4,4,CdV,1438
+Midecamycin,1,1,Ainfec,3212
+Pralmorelin hydrochloride,4,4,CdV,1438
+Isradipine,1,1,Ainfec,3212
+Aciclovir,3,3,CNS,1632
+Sertraline,3,3,CNS,1632
+"2-(3,4-Dihydroxyphenyl)-3,5,7-trihydroxy-4h-chromen-4-one",5,5,Gi,360
+"Fenipentol, (r)-isomer",2,2,Ainfla,515
+Sotalol,4,4,CdV,1438
+Simfibrate,3,3,CNS,1632
+Tricaine,1,1,Ainfec,3212
+Brovincamine,4,4,CdV,1438
+Oxendolone,2,2,Ainfla,515
+paromomycin,1,1,Ainfec,3212
+4-Cresol,1,1,Ainfec,3212
+Clocapramine,3,3,CNS,1632
+Gallamine triethiodide,3,3,CNS,1632
+Mycophenolate,0,0,AN,1590
+3-Hydroxy-polydeoxycholic acid,3,3,CNS,1632
+Detomidine,3,3,CNS,1632
+zuclopenthixol,3,3,CNS,1632
+Etifelmine,5,5,Gi,360
+Naftopidil,4,4,CdV,1438
+Fenofibrate,5,5,Gi,360
+Glucose,4,4,CdV,1438
+Felbamate,3,3,CNS,1632
+Mgk glyceride,1,1,Ainfec,3212
+Mefenorex,3,3,CNS,1632
+Cetyl stearyl alcohol,1,1,Ainfec,3212
+Difeterol,1,1,Ainfec,3212
+Clavulanic acid,3,3,CNS,1632
+Cargutocin,1,1,Ainfec,3212
+Terpin,1,1,Ainfec,3212
+Famciclovir,3,3,CNS,1632
+Ornoprostil,4,4,CdV,1438
+sulbutiamine,1,1,Ainfec,3212
+androstenedione,0,0,AN,1590
+Lopinavir,1,1,Ainfec,3212
+Pcg (combination),4,4,CdV,1438
+Syprine,4,4,CdV,1438
+Tirofiban,2,2,Ainfla,515
+Asverin,1,1,Ainfec,3212
+Aceclofenac,2,2,Ainfla,515
+Cloprostenol,5,5,Gi,360
+Oxytocin,5,5,Gi,360
+cisapride,3,3,CNS,1632
+Acetazolamide,3,3,CNS,1632
+Valethamate bromide,3,3,CNS,1632
+Montirelin,0,0,AN,1590
+Allphar brand of flucytosine,4,4,CdV,1438
+Flutropium ,2,2,Ainfla,515
+Nimesulide,3,3,CNS,1632
+Phenprobamate,4,4,CdV,1438
+Diphenoxylate,2,2,Ainfla,515
+Oxaprozin,1,1,Ainfec,3212
+Phenosept,3,3,CNS,1632
+Fenofibric acid,5,5,Gi,360
+Benzoyl peroxide,4,4,CdV,1438
+Carteolol,1,1,Ainfec,3212
+"Ipriofenamine hydrochloride, i-123",3,3,CNS,1632
+Oxacillin,1,1,Ainfec,3212
+Betamethasone benzoate,0,0,AN,1590
+Dydrogesterone,0,0,AN,1590
+Xylitol,1,1,Ainfec,3212
+Monosodium trichloroethyl phosphate,2,2,Ainfla,515
+ketoconazole,3,3,CNS,1632
+Mydocalm,1,1,Ainfec,3212
+Phenyl salicylate,2,2,Ainfla,515
+Guajazulene,3,3,CNS,1632
+Amidoflumet,0,0,AN,1590
+Natrii iotalamas (125 i),1,1,Ainfec,3212
+Serine,2,2,Ainfla,515
+Ceftiofur,1,1,Ainfec,3212
+Cortisone acetate,1,1,Ainfec,3212
+Ciclacillin,2,2,Ainfla,515
+Meprednisone,2,2,Ainfla,515
+Permethrin,4,4,CdV,1438
+Dexamethasone-21-sulfobenzoate,0,0,AN,1590
+acadesine,1,1,Ainfec,3212
+Cefotiam,4,4,CdV,1438
+Bezafibrate,4,4,CdV,1438
+Hydralazine,2,2,Ainfla,515
+saquinavir,3,3,CNS,1632
+Topiramate,5,5,Gi,360
+Santonic acid,4,4,CdV,1438
+Budralazine,1,1,Ainfec,3212
+Bitolterol,4,4,CdV,1438
+Solifenacin,3,3,CNS,1632
+Carfenazina,2,2,Ainfla,515
+Gemfibrozil,1,1,Ainfec,3212
+"2-Methyl-1,4-naphthoquinone",3,3,CNS,1632
+thiamine disulfide,4,4,CdV,1438
+Adrenochrome,1,1,Ainfec,3212
+Reserpine,4,4,CdV,1438
+sparteine,0,0,AN,1590
+Ramosetron,4,4,CdV,1438
+Methysergide,4,4,CdV,1438
+Menatetrenone,1,1,Ainfec,3212
+Croconazole,0,0,AN,1590
+Tetracaine,3,3,CNS,1632
+pregabalin,3,3,CNS,1632
+"1H-1,2,3-triazole-4-carboxamide, 1-((2,6-difluorophenyl)methyl)-",3,3,CNS,1632
+Undecoylium chloride iodine complex,1,1,Ainfec,3212
+Enprostil,1,1,Ainfec,3212
+Fursultiamine,5,5,Gi,360
+Genestein,2,2,Ainfla,515
+Sulfadimethoxine,1,1,Ainfec,3212
+Pirarubicin,0,0,AN,1590
+Mestranol,0,0,AN,1590
+Abarelix,0,0,AN,1590
+Ancitabine,0,0,AN,1590
+"Benzo(3,4)cycloocta(1,2-f)(1,3)benzodioxol-6-ol, 5,6,7,8-tetrahydro-1,2,3,13-tetramethoxy-6,7-dimethyl-, stereoisomer",3,3,CNS,1632
+Rolipram,1,1,Ainfec,3212
+Erythromycin,2,2,Ainfla,515
+Mefenamic acid,0,0,AN,1590
+Montelukast,0,0,AN,1590
+Mitomycin,1,1,Ainfec,3212
+Benzenamine,2,2,Ainfla,515
+Shade uvaguard,4,4,CdV,1438
+Metipranolol,0,0,AN,1590
+Dromostanolone propionate,4,4,CdV,1438
+Enalapril,1,1,Ainfec,3212
+Biapenem,3,3,CNS,1632
+Percodan,1,1,Ainfec,3212
+Sorbic acid,1,1,Ainfec,3212
+6-Aminopenicillanic acid,5,5,Gi,360
+"4-(1,1-Difluoro-1,1a,6,10b-tetrahydrodibenzo(a,e)cyclopropa(c)cyclohepten-6-yl)-a-((5-quinolinyloxy)methyl)-1-piperazineethanol trihydrochloride, (6r)-(1aa,6a,10ba)",3,3,CNS,1632
+Thimerosal,0,0,AN,1590
+Natrii aurothiomalas,1,1,Ainfec,3212
+kainic acid,3,3,CNS,1632
+fentanyl,1,1,Ainfec,3212
+4-Nitrophenyl,1,1,Ainfec,3212
+Benzophenone,4,4,CdV,1438
+Mepenzolate bromide,2,2,Ainfla,515
+Pelubiprofen,2,2,Ainfla,515
+Penicillamine,0,0,AN,1590
+spiramycin b,0,0,AN,1590
+Tolvaptan,1,1,Ainfec,3212
+Orion brand of zotepine,3,3,CNS,1632
+Oxazolam,2,2,Ainfla,515
+Rofecoxib,3,3,CNS,1632
+Glucuronic acid,1,1,Ainfec,3212
+Dequalinium chloride,2,2,Ainfla,515
+Flufenamic acid,4,4,CdV,1438
+Phenylephrine,4,4,CdV,1438
+"Lecithin, egg yolk",4,4,CdV,1438
+Chrysarobin,4,4,CdV,1438
+Polyoxyethylene 4 lauryl ether,1,1,Ainfec,3212
+verteporfin,4,4,CdV,1438
+Xylometazoline,0,0,AN,1590
+Oxiglutatione,1,1,Ainfec,3212
+Netilmicin,0,0,AN,1590
+Gabexate,1,1,Ainfec,3212
+Indole hydrochloride,4,4,CdV,1438
+Neticonazole,1,1,Ainfec,3212
+4-Chlorophenol,1,1,Ainfec,3212
+Testosterone propionate,3,3,CNS,1632
+Tiemonium iodide,3,3,CNS,1632
+Aloclamida,0,0,AN,1590
+2-Ethyl-3-(.beta.-piperidino-p-phenetidino)phthalimidine,4,4,CdV,1438
+Butyl-sympatol,4,4,CdV,1438
+cefotiam,1,1,Ainfec,3212
+Cefoselis,1,1,Ainfec,3212
+Cefmenoxime,1,1,Ainfec,3212
+Doranidazole,1,1,Ainfec,3212
+Cefuroxime,1,1,Ainfec,3212
+Hexocyclium metilsulfate,3,3,CNS,1632
+Anxixang,1,1,Ainfec,3212
+Spectinomycin,1,1,Ainfec,3212
+Perisoxalum,3,3,CNS,1632
+"Cetyl alcohol, 14c-labeled",1,1,Ainfec,3212
+Aldesulfone sodique,4,4,CdV,1438
+Octinoxate,1,1,Ainfec,3212
+Diphenylcyclopropenone,1,1,Ainfec,3212
+Pentazocine,3,3,CNS,1632
+"4'-Methyl-2'r-hydroxy-2'-(4-hydroxy-4-methylpentyl)-butanedioate chloride, 3r",3,3,CNS,1632
+"1-Propene-1,2,3-tricarboxylic acid",4,4,CdV,1438
+ricinoleic acid,3,3,CNS,1632
+Gadopentetic acid,0,0,AN,1590
+Imidafenacinum,4,4,CdV,1438
+Bay t 7391,3,3,CNS,1632
+posaconazole,1,1,Ainfec,3212
+Emedastine,1,1,Ainfec,3212
+"Androst-4-en-3-one, 17-((4-methyl-1-oxopentyl)oxy)-, (17beta)-",0,0,AN,1590
+minocycline,2,2,Ainfla,515
+Salsalate,1,1,Ainfec,3212
+Sarpogrelate,1,1,Ainfec,3212
+"2,4,6-Tribromophenol, bismuth (3+) salt",4,4,CdV,1438
+"1-Propanamine, n,n-dimethyl-3-((1-(phenylmethyl)-1h-indazol-3-yl)oxy)-",2,2,Ainfla,515
+Fluorometholone,1,1,Ainfec,3212
+Dibenzthiazyl disulphide,2,2,Ainfla,515
+Erythrosin b,4,4,CdV,1438
+Risedronic acid,4,4,CdV,1438
+Benziodarone,2,2,Ainfla,515
+Hexadecylcitric acid,5,5,Gi,360
+raltitrexed,0,0,AN,1590
+Iobitridol,1,1,Ainfec,3212
+Erythromycin,1,1,Ainfec,3212
+Glymidine sodium,5,5,Gi,360
+Lactitol,1,1,Ainfec,3212
+Aceglatone,1,1,Ainfec,3212
+Seratrodast,2,2,Ainfla,515
+3-(4-Methoxyphenyl)-2-propenoic acid 3-methylbutyl ester,4,4,CdV,1438
+Halofantrinum,4,4,CdV,1438
+latanoprost,1,1,Ainfec,3212
+Nicarbazin,1,1,Ainfec,3212
+S-adenosylmethionine,1,1,Ainfec,3212
+Carbenicillin,1,1,Ainfec,3212
+Piretanide,3,3,CNS,1632
+Prochlorperazine,1,1,Ainfec,3212
+"1,8-Epoxy-p-menthane",3,3,CNS,1632
+Menthyl salicylate,1,1,Ainfec,3212
+Troleandomycin,1,1,Ainfec,3212
+Methylrosanilinium,1,1,Ainfec,3212
+Acrisorcinum,1,1,Ainfec,3212
+Astromicin,1,1,Ainfec,3212
+Paclitaxel,3,3,CNS,1632
+Ketamine,0,0,AN,1590
+Bleomycin,0,0,AN,1590
+Fluocinolone acetonide,1,1,Ainfec,3212
+Gentamicin c1a,1,1,Ainfec,3212
+Gantanol,1,1,Ainfec,3212
+Mesnex tabs,2,2,Ainfla,515
+Nitroscanate,1,1,Ainfec,3212
+Dienestrol,0,0,AN,1590
+Treosulfan,3,3,CNS,1632
+4-Amino-3-hydroxybutyric acid,0,0,AN,1590
+ciclopirox,1,1,Ainfec,3212
+Moracizine,0,0,AN,1590
+decitabine,4,4,CdV,1438
+Flecainide,4,4,CdV,1438
+fluprednidene acetate,2,2,Ainfla,515
+Sincalide,1,1,Ainfec,3212
+Glycyrrhizin,4,4,CdV,1438
+Nadolol,1,1,Ainfec,3212
+4-Chloro-3-methylphenol,1,1,Ainfec,3212
+Sorivudine,1,1,Ainfec,3212
+Zalcitabine,4,4,CdV,1438
+Dorzolamide,3,3,CNS,1632
+carbamazepine,2,2,Ainfla,515
+Paredrine,3,3,CNS,1632
+Lorazepam,3,3,CNS,1632
+Prednisone,2,2,Ainfla,515
+Racemethorphan,3,3,CNS,1632
+2-(Benzyl(2-(dimethylamino)ethyl)amino)pyridine citrate (1:1),3,3,CNS,1632
+Laureth-10s,1,1,Ainfec,3212
+ganciclovir,4,4,CdV,1438
+"3,5-Pyrazolidinedione, 4-(3-methyl-2-butenyl)-1,2-diphenyl-",4,4,CdV,1438
+Befunolol,2,2,Ainfla,515
+Hydrocotarnine hydrochloride,3,3,CNS,1632
+Homochlorcyclizine,0,0,AN,1590
+Ifosfamide,0,0,AN,1590
+Lomefloxacin,3,3,CNS,1632
+Testolactone,0,0,AN,1590
+Tzt-1027,1,1,Ainfec,3212
+N-hydroxymethylsuccinimide,3,3,CNS,1632
+Lidocaine,1,1,Ainfec,3212
+Etidronic acid,0,0,AN,1590
+O-tolylazo-o-tolylazo-beta-naphthol,4,4,CdV,1438
+Anagrelide,3,3,CNS,1632
+Phenelzine,3,3,CNS,1632
+Cloxazolam,1,1,Ainfec,3212
+5-Hydroxy-2-(hydroxymethyl)-4h-pyran-4-one,1,1,Ainfec,3212
+Trovafloxacin,0,0,AN,1590
+Dolasetron,4,4,CdV,1438
+Clarithromycin,1,1,Ainfec,3212
+Enoxolone,2,2,Ainfla,515
+Suprofen,2,2,Ainfla,515
+Febuxostat,3,3,CNS,1632
+Gd-edta,1,1,Ainfec,3212
+Acetylcysteine,2,2,Ainfla,515
+Hydrastine,4,4,CdV,1438
+Nifekalant,3,3,CNS,1632
+Aluminum diacetate,1,1,Ainfec,3212
+Sulfamerazine,3,3,CNS,1632
+Methohexital,1,1,Ainfec,3212
+Iodamide,3,3,CNS,1632
+Pyruvic acid calcium isoniazid,0,0,AN,1590
+fusidic acid,5,5,Gi,360
+Carafate,1,1,Ainfec,3212
+Oxycodone,3,3,CNS,1632
+Doripenem,1,1,Ainfec,3212
+Maltose,5,5,Gi,360
+Pancuronium,3,3,CNS,1632
+pantethine,1,1,Ainfec,3212
+Mecobalamine,0,0,AN,1590
+photofrin,3,3,CNS,1632
+Demecarium bromide,1,1,Ainfec,3212
+bropirimine,1,1,Ainfec,3212
+Phenacainum,1,1,Ainfec,3212
+Dobutamine,4,4,CdV,1438
+Oxamniquine,1,1,Ainfec,3212
+Chlorzoxazone,3,3,CNS,1632
+Flomoxef,1,1,Ainfec,3212
+Propentofylline,4,4,CdV,1438
+Halothane,1,1,Ainfec,3212
+Bretylium tosilate,4,4,CdV,1438
+Alilusem,0,0,AN,1590
+1-Octacosanol,1,1,Ainfec,3212
+Stanozolol,1,1,Ainfec,3212
+Suplatast tosilate,3,3,CNS,1632
+Zolpidem,3,3,CNS,1632
+Orphenadrine,0,0,AN,1590
+Nedaplatin,3,3,CNS,1632
+Hydroxycobalamin,3,3,CNS,1632
+Carpipramine,3,3,CNS,1632
+"Anthranilic acid, monosodium salt",4,4,CdV,1438
+Alpha-glycerophosphoric acid,4,4,CdV,1438
+"Sydnone imine, n-(ethoxycarbonyl)-3-(4-morpholinyl)-",2,2,Ainfla,515
+Amcinonide,3,3,CNS,1632
+Domperidone,1,1,Ainfec,3212
+Oteracil,1,1,Ainfec,3212
+Brotizolam,3,3,CNS,1632
+Trimethobenzamide hydrochloride,4,4,CdV,1438
+Bromperidol,3,3,CNS,1632
+Terodiline,5,5,Gi,360
+Pamidronic acid,4,4,CdV,1438
+Pergolide,3,3,CNS,1632
+Clonazepam,3,3,CNS,1632
+Oxyphenbutazone,1,1,Ainfec,3212
+tinidazole,2,2,Ainfla,515
+"1,8-Dihydroxyanthraquinone",5,5,Gi,360
+Bacitracin,3,3,CNS,1632
+Haloperidol,3,3,CNS,1632
+Oxetacaine,0,0,AN,1590
+Arginine,3,3,CNS,1632
+Nicotine,0,0,AN,1590
+Leucine,2,2,Ainfla,515
+Sulfinpyrazone,1,1,Ainfec,3212
+Aclatonium napadisilate,4,4,CdV,1438
+cladribine,1,1,Ainfec,3212
+Artesunate,2,2,Ainfla,515
+"Beta-d-glucopyranoside, 4-hydroxyphenyl",0,0,AN,1590
+Geraniol,1,1,Ainfec,3212
+Diprivan,1,1,Ainfec,3212
+Wy 2190,4,4,CdV,1438
+Methylprednisolone,2,2,Ainfla,515
+Ethyl salicylate,2,2,Ainfla,515
+Blonanserin,3,3,CNS,1632
+Rasagiline,3,3,CNS,1632
+inositol,5,5,Gi,360
+Amylmetacresolum,1,1,Ainfec,3212
+"O-(1,2,3,4-tetrahydro-1,4-methanonaphthalen-6- yl) m-n-dimethylthiocarbanilate",0,0,AN,1590
+Cantharidine,1,1,Ainfec,3212
+Carbocisteine,1,1,Ainfec,3212
+Fenamisal,1,1,Ainfec,3212
+Encainide,1,1,Ainfec,3212
+Dowicide,4,4,CdV,1438
+Thiaminum,1,1,Ainfec,3212
+Cefatrizine,4,4,CdV,1438
+Acetohexamide,1,1,Ainfec,3212
+Dimemorfan,3,3,CNS,1632
+Ic-green,1,1,Ainfec,3212
+Acetanilide,1,1,Ainfec,3212
+Cefoxitin,3,3,CNS,1632
+"N-acetyltyrosine, (dl)-isomer",1,1,Ainfec,3212
+"Dinucleotide, dihydronicotinamide adenin",3,3,CNS,1632
+Benzatropine,1,1,Ainfec,3212
+tadalafil,4,4,CdV,1438
+clindamycin,1,1,Ainfec,3212
+"Quinethazone, (-)-isomer",4,4,CdV,1438
+nebivolol,4,4,CdV,1438
+Gestodene,0,0,AN,1590
+Bufetolol,4,4,CdV,1438
+Dihydroergotamine,4,4,CdV,1438
+Vardenafil,1,1,Ainfec,3212
+glucuronamide,4,4,CdV,1438
+Profenamine hydrochloride,3,3,CNS,1632
+Dihydroergocornine dihydroergocristine dihydroergocryptine mesylates,4,4,CdV,1438
+Naftidrofurilo,4,4,CdV,1438
+Colestid,4,4,CdV,1438
+Flutazolam,3,3,CNS,1632
+Doxycycline,3,3,CNS,1632
+lumiracoxib,2,2,Ainfla,515
+naltrexone,0,0,AN,1590
+Idoxuridine,4,4,CdV,1438
+naratriptan,3,3,CNS,1632
+Succinylsulfathiazole,1,1,Ainfec,3212
+Cefonicid,1,1,Ainfec,3212
+Cefepime,1,1,Ainfec,3212
+Decamethonium bromide,1,1,Ainfec,3212
+Tranexamic,3,3,CNS,1632
+Levomefolic,0,0,AN,1590
+Enoxacin,0,0,AN,1590
+Apafant,4,4,CdV,1438
+1-(10-(2-(Dimethylamino)propyl)phenothiazin-2-yl)-1-propanone monohydrochloride,3,3,CNS,1632
+Trandolapril,2,2,Ainfla,515
+Tiaprofenic acid,4,4,CdV,1438
+Methylprednisolone acetate,5,5,Gi,360
+Dodecaethylene glycol monolaurate,2,2,Ainfla,515
+Distigmine bromide,4,4,CdV,1438
+Pentaerithrityl tetranitrate,1,1,Ainfec,3212
+"Flupenthixol decanoate, (z)-isomer",3,3,CNS,1632
+toremifene,0,0,AN,1590
+Teprenone,0,0,AN,1590
+Methanthelinium bromide,5,5,Gi,360
+Peplomycin,3,3,CNS,1632
+"Benzeneacetamide, n-(aminocarbonyl)-.alpha.-ethyl-",1,1,Ainfec,3212
+Iodoxamic acid,1,1,Ainfec,3212
+Econazole,0,0,AN,1590
+sennoside,0,0,AN,1590
+Valrubicin,1,1,Ainfec,3212
+Isepamicin,5,5,Gi,360
+"Sodium 5-difluoromethoxy-2-((3,4-dimethoxy-2-pyridyl)methylsulfinyl)-1h-benzimidazole",5,5,Gi,360
+Spiperone,3,3,CNS,1632
+Acetomenaphtone,4,4,CdV,1438
+oxymorphone,3,3,CNS,1632
+metoclopramide,3,3,CNS,1632
+Prazepam,0,0,AN,1590
+Nonanedioic acid,3,3,CNS,1632
+"Cresyl acetate, m-",1,1,Ainfec,3212
+Butopamine,4,4,CdV,1438
+Amitriptyline,3,3,CNS,1632
+Atropine methonitrate,3,3,CNS,1632
+Cefsulodin,1,1,Ainfec,3212
+treprostinil,2,2,Ainfla,515
+Triethanol ammonium chloride,4,4,CdV,1438
+Iobenguane sulfate i 123,4,4,CdV,1438
+Clinprost,4,4,CdV,1438
+Tiquizium,1,1,Ainfec,3212
+2-Mercaptobenzothiazole,3,3,CNS,1632
+Gluconic acid,1,1,Ainfec,3212
+Metocarbamol,3,3,CNS,1632
+digitoxin,1,1,Ainfec,3212
+Lincomycin,2,2,Ainfla,515
+Tiotropium,4,4,CdV,1438
+Ivermectin,1,1,Ainfec,3212
+lanatoside c,0,0,AN,1590
+Chlormadinone acetate,4,4,CdV,1438
+Fenoldopam,3,3,CNS,1632
+gabapentin,4,4,CdV,1438
+Kyurinett,0,0,AN,1590
+Nalidixic acid,4,4,CdV,1438
+Indapamide,3,3,CNS,1632
+Sodium stibogluconate,1,1,Ainfec,3212
+Abbott-64077,2,2,Ainfla,515
+Mebeverine,0,0,AN,1590
+Altretaminum,3,3,CNS,1632
+Bucolome,3,3,CNS,1632
+Bisbentiamine,1,1,Ainfec,3212
+Cefpodoxime proxetil,4,4,CdV,1438
+Trichlormethiazide,1,1,Ainfec,3212
+Strychnine,3,3,CNS,1632
+Fluvoxamine,3,3,CNS,1632
+Tolmetin,1,1,Ainfec,3212
+Gemcitabine,2,2,Ainfla,515
+Iotroxic acid,1,1,Ainfec,3212
+Metocurine,1,1,Ainfec,3212
+Foscarnet sodium,2,2,Ainfla,515
+Diclofenac,4,4,CdV,1438
+Argipressin,1,1,Ainfec,3212
+"Cinchonine, monohydrochloride, (9s)-isomer",4,4,CdV,1438
+Nandrolone cyclohexylpropionate,3,3,CNS,1632
+"5-(4-Chlorophenyl)-5-hydroxy-2,5-dihydro-3h-imidazo(2,1-a)isoindole",0,0,AN,1590
+"Alpha-keto-glutaric acid, sodium salt",0,0,AN,1590
+Vapiprost,3,3,CNS,1632
+Terguride,4,4,CdV,1438
+Cabergoline,3,3,CNS,1632
+Benzfetamine,3,3,CNS,1632
+Bergenin,0,0,AN,1590
+Amfebutamone,3,3,CNS,1632
+Sulfamerazine sodium,1,1,Ainfec,3212
+riboflavin,1,1,Ainfec,3212
+Zidovudine,1,1,Ainfec,3212
+"Aminoglutethimide phosphate, monohydrochloride",0,0,AN,1590
+Chlorascrub swab,0,0,AN,1590
+Glutathione,1,1,Ainfec,3212
+Toborinone,4,4,CdV,1438
+Dye acid red 27,4,4,CdV,1438
+Lemildipine,4,4,CdV,1438
+Alprenolol,1,1,Ainfec,3212
+"Adenosine cyclic 3',5'-phosphate",0,0,AN,1590
+Rabeprazole,5,5,Gi,360
+Carbinoxamine,0,0,AN,1590
+Methionine,3,3,CNS,1632
+Triiodothyronine,3,3,CNS,1632
+Vancomycin,3,3,CNS,1632
+Tolterodine,4,4,CdV,1438
+Menfegol,3,3,CNS,1632
+Rilmazafone,1,1,Ainfec,3212
+Mangafodipir,1,1,Ainfec,3212
+Nitrofural,1,1,Ainfec,3212
+valaciclovir,0,0,AN,1590
+Alatrofloxacin,0,0,AN,1590
+Norelgestromin,5,5,Gi,360
+Alosetron,1,1,Ainfec,3212
+Chlorophyllin copper complex,4,4,CdV,1438
+Prazosin,1,1,Ainfec,3212
+Pemirolast,3,3,CNS,1632
+Fluorostigmine,1,1,Ainfec,3212
+"Fenchone, (1s)-isomer",1,1,Ainfec,3212
+Spirapril,4,4,CdV,1438
+Delapril,1,1,Ainfec,3212
+Cytarabine,1,1,Ainfec,3212
+Nc-503,4,4,CdV,1438
+Lobenzarit,2,2,Ainfla,515
+Homatropine,3,3,CNS,1632
+Garenoxacin,4,4,CdV,1438
+Trimetaphani camsilas,0,0,AN,1590
+Falecalcitriol,4,4,CdV,1438
+Progesterone,0,0,AN,1590
+Olmesartan medoxomil,4,4,CdV,1438
+Calcitriol,4,4,CdV,1438
+"Camphor, monobromated",1,1,Ainfec,3212
+Cystine,1,1,Ainfec,3212
+Oxabolone cipionate,0,0,AN,1590
+Estradiol,2,2,Ainfla,515
+vincristine,4,4,CdV,1438
+Argiprestocin,4,4,CdV,1438
+Cinoxate,1,1,Ainfec,3212
+Stavudine,3,3,CNS,1632
+Hexobarbital,0,0,AN,1590
+fulvestrant,3,3,CNS,1632
+Amobarbital,0,0,AN,1590
+vinorelbine,3,3,CNS,1632
+10-(2-(1-Methyl-2-piperidinyl)ethyl)-2-(methylsulfinyl)phenothiazine,3,3,CNS,1632
+Polyacetal,1,1,Ainfec,3212
+Cetrimonium bromide,4,4,CdV,1438
+Mephentermine,0,0,AN,1590
+Lasalocid,1,1,Ainfec,3212
+Gonadorelin,0,0,AN,1590
+Cholesterol,0,0,AN,1590
+Green 5,3,3,CNS,1632
+Beraprost,4,4,CdV,1438
+Propiverine,3,3,CNS,1632
+Griseofulvin,4,4,CdV,1438
+Bupranolol,1,1,Ainfec,3212
+Protionamidum,1,1,Ainfec,3212
+Fominoben hydrochloride,3,3,CNS,1632
+"Isoeugenol, (e)-isomer",3,3,CNS,1632
+Chlorprothixene,3,3,CNS,1632
+Aurorix,3,3,CNS,1632
+Artemether,1,1,Ainfec,3212
+Amfenac,2,2,Ainfla,515
+7-(1-Methyethoxy)-3-phenyl-4h-1-benzopyran-4-one,0,0,AN,1590
+miokamycin,1,1,Ainfec,3212
+Ergotamine,1,1,Ainfec,3212
+"Benzenesulfonic acid, 2,5-dihydroxy-, compd. with n-ethylethanamine (1:1)",4,4,CdV,1438
+Propicillin,4,4,CdV,1438
+Metaraminol,1,1,Ainfec,3212
+Hexestrol,0,0,AN,1590
+Ketotifenum,3,3,CNS,1632
+Glibenclamide,3,3,CNS,1632
+Pentobarbital,4,4,CdV,1438
+Nedocromil,2,2,Ainfla,515
+Fosfluconazole,1,1,Ainfec,3212
+Methotrexate,4,4,CdV,1438
+isosorbide mononitrate,0,0,AN,1590
+P-butylaminobenzoyldiethylaminoethyl hydrochloride,3,3,CNS,1632
+Cefapirin,1,1,Ainfec,3212
+butobarbitone,3,3,CNS,1632
+Diponium bromide,4,4,CdV,1438
+Bumetanide,0,0,AN,1590
+Holin,2,2,Ainfla,515
+Prednicarbate,4,4,CdV,1438
+Omapatrilat,0,0,AN,1590
+Trolnitrato,0,0,AN,1590
+"Iodoantipyrine, 123i-labeled",2,2,Ainfla,515
+Dapiprazole,3,3,CNS,1632
+Phenytoin,4,4,CdV,1438
+Sodium glycerophosphate,3,3,CNS,1632
+"3',6'-Dihydroxy-3-oxospiro(isobenzofuran-1(3h),9'-(9h)xanthene)-6-carboxylic acid",4,4,CdV,1438
+Arbutamine,2,2,Ainfla,515
+1-Naphthaleneacetic acid,2,2,Ainfla,515
+Buphenyl,0,0,AN,1590
+"2-Hydroxybenzoic acid, 2- hydroxyethyl ester",2,2,Ainfla,515
+retinol acetate,0,0,AN,1590
+Uvinul-t-150,0,0,AN,1590
+dasatinib,3,3,CNS,1632
+Eptazocine,1,1,Ainfec,3212
+Sulfapyridine,1,1,Ainfec,3212
+"2,6-Pyridinediamine, 3-(phenylazo)-, monohydrochloride",4,4,CdV,1438
+Maxacalcitol,0,0,AN,1590
+Cyproheptadine,5,5,Gi,360
+Duloxetine,3,3,CNS,1632
+Eprazinona,4,4,CdV,1438
+Sorbitan,3,3,CNS,1632
+Goserelin,2,2,Ainfla,515
+Deracoxib,1,1,Ainfec,3212
+Regadenoson,1,1,Ainfec,3212
+fungichromin,4,4,CdV,1438
+cinepazide,1,1,Ainfec,3212
+Propyl benzoate,4,4,CdV,1438
+Minoxidil,0,0,AN,1590
+Retapamulin,2,2,Ainfla,515
+Indometacin,1,1,Ainfec,3212
+Dipyrithione magnesium sulfate,1,1,Ainfec,3212
+Ponazurilum,3,3,CNS,1632
+Prilocaine,4,4,CdV,1438
+Cycrimine hydrochloride,1,1,Ainfec,3212
+Oxibendazole,3,3,CNS,1632
+Unoprostone,0,0,AN,1590
+Iotalamic acid,4,4,CdV,1438
+mirtazapine,1,1,Ainfec,3212
+Tetramethylthiuram monosulfide,3,3,CNS,1632
+Dosulepin,0,0,AN,1590
+Vitamin C,3,3,CNS,1632
+Sulfadoxine,1,1,Ainfec,3212
+Promethazine,1,1,Ainfec,3212
+Threoninum,3,3,CNS,1632
+Alacepril,4,4,CdV,1438
+Camostat,4,4,CdV,1438
+Coniinum,0,0,AN,1590
+Candesartan cilexetil,3,3,CNS,1632
+Azaperone,1,1,Ainfec,3212
+Tazobactam,4,4,CdV,1438
+Ivermectin,1,1,Ainfec,3212
+Tretinoin tocoferil,0,0,AN,1590
+(Sulfobromophthalein)glutathione conjugate,3,3,CNS,1632
+"Indeloxazine, (+)-isomer",2,2,Ainfla,515
+Sivelestat,1,1,Ainfec,3212
+Pipothiazine palmitate,1,1,Ainfec,3212
+Oleandomycin,3,3,CNS,1632
+"Acetone bis(3,5-di-tert-butyl-4-hydroxyphenyl) mercaptole",4,4,CdV,1438
+Pindolol,1,1,Ainfec,3212
+Chlorquinaldol,1,1,Ainfec,3212
+pyrithione zinc,1,1,Ainfec,3212
+Sultamicillin tosilate,1,1,Ainfec,3212
+cholic acid,3,3,CNS,1632
+"Butanoic acid, 4-hydroxy-, monosodium salt",1,1,Ainfec,3212
+Ioxilan,0,0,AN,1590
+rimonabant,5,5,Gi,360
+Neomycin,4,4,CdV,1438
+felodipine,1,1,Ainfec,3212
+Sulfisoxazole acetal,1,1,Ainfec,3212
+Terbinafine,1,1,Ainfec,3212
+Azosemide,1,1,Ainfec,3212
+Paretoxicaina,4,4,CdV,1438
+Ubenimex,4,4,CdV,1438
+isoprenaline,4,4,CdV,1438
+Candicidin,4,4,CdV,1438
+Hepronicate,3,3,CNS,1632
+Ortetamine,0,0,AN,1590
+Tosufloxacin,1,1,Ainfec,3212
+Chlorphentermine,3,3,CNS,1632
+Mometasone furoate,2,2,Ainfla,515
+ritonavir,1,1,Ainfec,3212
+Terazosin,1,1,Ainfec,3212
+Meticranum,4,4,CdV,1438
+Cerivastatin,1,1,Ainfec,3212
+Pyricarbate,0,0,AN,1590
+Pioglitazone,0,0,AN,1590
+Efonidipine,1,1,Ainfec,3212
+Sodium trichloroacetate,4,4,CdV,1438
+Bevantolol,4,4,CdV,1438
+Bicalutamide,0,0,AN,1590
+2-Desoxy-d-glucose,5,5,Gi,360
+anidulafungin,1,1,Ainfec,3212
+cefetamet pivoxyl,1,1,Ainfec,3212
+Lumefantrine,1,1,Ainfec,3212
+Cidofovir,0,0,AN,1590
+allopurinol,4,4,CdV,1438
+Tocainide,1,1,Ainfec,3212
+Captopril,1,1,Ainfec,3212
+Cefmetazole,3,3,CNS,1632
+Articaine,2,2,Ainfla,515
+Fenoprofen,1,1,Ainfec,3212
+Amelometasone,3,3,CNS,1632
+mitiglinide,1,1,Ainfec,3212
+Meglumine,2,2,Ainfla,515
+pentagastrin,0,0,AN,1590
+Lomustine,1,1,Ainfec,3212
+Flurandrenolide,2,2,Ainfla,515
+Tipifarnib,0,0,AN,1590
+"3-(4-Amino-1-oxo-1,3-dihydro-2h-isoindol-2-yl)piperidine-2,6-dione",3,3,CNS,1632
+Hydroxyzine,0,0,AN,1590
+Rimantadine,1,1,Ainfec,3212
+Methyldopa,4,4,CdV,1438
+Triprolidine,0,0,AN,1590
+Granisetron,4,4,CdV,1438
+Fenolftaleina,1,1,Ainfec,3212
+Pyrimethamine,3,3,CNS,1632
+Amfepramone,2,2,Ainfla,515
+Aprindine,4,4,CdV,1438
+Tolfenamic acid,0,0,AN,1590
+Succimer,2,2,Ainfla,515
+Nolatrexed,0,0,AN,1590
+Diphemanil metilsulfate,3,3,CNS,1632
+Prednisolone acetate,5,5,Gi,360
+Medronic acid,0,0,AN,1590
+Fosfestrol,2,2,Ainfla,515
+Etizolam,0,0,AN,1590
+8-Hydroxyxanthine,1,1,Ainfec,3212
+"Acids, aminosalicyli",4,4,CdV,1438
+Diisopropylamine sulfate (2:1),3,3,CNS,1632
+Terbutaline,4,4,CdV,1438
+micafungin,4,4,CdV,1438
+angiotensin ii,1,1,Ainfec,3212
+Tirilazad,3,3,CNS,1632
+Hydrocortisone succinate,1,1,Ainfec,3212
+sizofiran,2,2,Ainfla,515
+gadobenic,1,1,Ainfec,3212
+Colistin,3,3,CNS,1632
+Alomide,4,4,CdV,1438
+Flunarizine,3,3,CNS,1632
+Fenbutrazate,1,1,Ainfec,3212
+Estramustine phosphate,3,3,CNS,1632
+memantine,0,0,AN,1590
+Methyltestosterone,4,4,CdV,1438
+Epoprostenol,0,0,AN,1590
+Ci63,3,3,CNS,1632
+Nizofenone,4,4,CdV,1438
+Betanidine,3,3,CNS,1632
+Ascorbate 6-palmitate,0,0,AN,1590
+talaporfin,1,1,Ainfec,3212
+Zoledronic acid,3,3,CNS,1632
+Glutamic acid,3,3,CNS,1632
+Megibal,3,3,CNS,1632
+Urapidil,0,0,AN,1590
+Balofloxacin,3,3,CNS,1632
+Iocetamic acid,1,1,Ainfec,3212
+"Glycine, n-(4-aminobenzoyl)-",0,0,AN,1590
+Itasetron,3,3,CNS,1632
+Mepyramine,3,3,CNS,1632
+histamine,5,5,Gi,360
+Aztreonam,1,1,Ainfec,3212
+Tesaglitazar,1,1,Ainfec,3212
+Cysteine,5,5,Gi,360
+Clodronic acid,4,4,CdV,1438
+Mb 800,1,1,Ainfec,3212
+Kp-363,1,1,Ainfec,3212
+Sodium lauryl sulfoacetate,1,1,Ainfec,3212
+Pyrazinamidum,1,1,Ainfec,3212
+Cefodizime,3,3,CNS,1632
+Hydrocortisone buteprate,2,2,Ainfla,515
+Nafarelin,0,0,AN,1590
+frovatriptan,0,0,AN,1590
+Pazufloxacin,1,1,Ainfec,3212
+Parachlorophenol camphorated,3,3,CNS,1632
+Galantamine,2,2,Ainfla,515
+Tilmacoxib,3,3,CNS,1632
+Tolbutamide,1,1,Ainfec,3212
+Nadifloxacin,3,3,CNS,1632
+Ethyl loflazepate,0,0,AN,1590
+Ethiazide,4,4,CdV,1438
+Emiglitate,1,1,Ainfec,3212
+eletriptan,4,4,CdV,1438
+Clemastine,3,3,CNS,1632
+Lauric acid diethanolamide,1,1,Ainfec,3212
+Y-3642,4,4,CdV,1438
+Mersalyl sodium,2,2,Ainfla,515
+Melperone,3,3,CNS,1632
+Dexloxiglumide,5,5,Gi,360
+Clemizole hydrochloride,3,3,CNS,1632
+Nicotinamide,3,3,CNS,1632
+"Chloramphenicol palmitate, monopalmitate",3,3,CNS,1632
+Pantothenic acid,1,1,Ainfec,3212
+Alcuronium,0,0,AN,1590
+Allylestrenol,1,1,Ainfec,3212
+Tinosorb s,3,3,CNS,1632
+Oxitropium,2,2,Ainfla,515
+Trausabun,3,3,CNS,1632
+Noctran,3,3,CNS,1632
+buprenorphine,1,1,Ainfec,3212
+Sulfaquinoxaline,4,4,CdV,1438
+gamolenic acid,4,4,CdV,1438
+Diprophylline,4,4,CdV,1438
+Ambrisentan,3,3,CNS,1632
+Prednazate,3,3,CNS,1632
+Raxar,0,0,AN,1590
+Iobenzamic acid,0,0,AN,1590
+Stiripentol,3,3,CNS,1632
+Dirithromycin,3,3,CNS,1632
+Caramifenio,4,4,CdV,1438
+53-32C,4,4,CdV,1438
+Esflurbiprofen,1,1,Ainfec,3212
+Gliquidone,4,4,CdV,1438
+Sildenafil,1,1,Ainfec,3212
+Carumonam,2,2,Ainfla,515
+Sodium acetrizoate,0,0,AN,1590
+"Lipoamide, (+-)-isomer",3,3,CNS,1632
+Pipamperone,2,2,Ainfla,515
+Tenoxicam,3,3,CNS,1632
+"Alpha-carotene, (6'r)-isomer",0,0,AN,1590
+Lanreotide,3,3,CNS,1632
+Sultopride,4,4,CdV,1438
+Metirapona,3,3,CNS,1632
+Clozapine,3,3,CNS,1632
+Flunitrazepam,1,1,Ainfec,3212
+clofarabine,4,4,CdV,1438
+Octopamine,4,4,CdV,1438
+Levopropylhexedrine,1,1,Ainfec,3212
+Chlorothymol,3,3,CNS,1632
+"Cp-88,059-01",0,0,AN,1590
+Ritodrine,1,1,Ainfec,3212
+Clindamycin,4,4,CdV,1438
+Sulfacitine,1,1,Ainfec,3212
+Ortho-benzyl-para-chlorophenol,5,5,Gi,360
+Ranitidine,1,1,Ainfec,3212
+telmisartan,1,1,Ainfec,3212
+"2',4',6'-Trihydroxypropiophenone",3,3,CNS,1632
+Nefopam,1,1,Ainfec,3212
+efavirenz,3,3,CNS,1632
+Felbinac ethyl ester,4,4,CdV,1438
+Salicylamide,1,1,Ainfec,3212
+Orotic acid,2,2,Ainfla,515
+Darunavir,3,3,CNS,1632
+Isopropamide iodide,4,4,CdV,1438
+"Pyrimidine, 4-methoxy-2-(5-methoxy-3-methyl-1h-pyrazol-1-yl)-6-methyl-",1,1,Ainfec,3212
+Sodium caprate,1,1,Ainfec,3212
+Tylosin,1,1,Ainfec,3212
+Ouabain,4,4,CdV,1438
+Hydroxyprogesterone caproate,1,1,Ainfec,3212
+Cruex,1,1,Ainfec,3212
+Isobornyl acetate,0,0,AN,1590
+Eprosartan,4,4,CdV,1438
+Doxercalciferol,0,0,AN,1590
+Hydrocortamate,2,2,Ainfla,515
+Prasterone,2,2,Ainfla,515
+gatifloxacin,0,0,AN,1590
+Medrysone,2,2,Ainfla,515
+desoxycorticosterone acetate,0,0,AN,1590
+Epidihydrocholesterin,1,1,Ainfec,3212
+nelarabine,1,1,Ainfec,3212
+Lamivudine,3,3,CNS,1632
+Dipipanone hydrochloride,2,2,Ainfla,515
+Acido ar?ndico,1,1,Ainfec,3212
+"Estr-4-en-3-one, 17-(3-(2-furanyl)-1-oxopropoxy)-, (17beta)-",2,2,Ainfla,515
+Novobiocin,1,1,Ainfec,3212
+Dexrazoxane,0,0,AN,1590
+Cyclopenthiazide,4,4,CdV,1438
+Isometheptene hydrochloride,4,4,CdV,1438
+Trospium,3,3,CNS,1632
+Thioproperazine mesilate,0,0,AN,1590
+Ioxitalamic acid,4,4,CdV,1438
+Calcipotriol,0,0,AN,1590
+Moexipril,4,4,CdV,1438
+Mebhydrolin,1,1,Ainfec,3212
+Nandrolone decanoate,0,0,AN,1590
+Ifenprodil,4,4,CdV,1438
+Clomipramine,3,3,CNS,1632
+Estradiol valerate,4,4,CdV,1438
+Naphazoline,0,0,AN,1590
+Narasino,2,2,Ainfla,515
+testosterone,3,3,CNS,1632
+Phendimetrazine,1,1,Ainfec,3212
+Telithromycin,4,4,CdV,1438
+Mabuterol,1,1,Ainfec,3212
+2-Ethylhexyl-4-phenylbenzophenone-2-carboxylic acid,0,0,AN,1590
+Floxuridine,4,4,CdV,1438
+Dipivefrine,0,0,AN,1590
+tramadol,3,3,CNS,1632
+5A-androsta-16-ene-3-one,1,1,Ainfec,3212
+Troxacitabine,0,0,AN,1590
+Ramatroban,4,4,CdV,1438
+Pinaverium bromide,3,3,CNS,1632
+Meprylcaine,3,3,CNS,1632
+"1-Naphthalenol, methylcarbamate",4,4,CdV,1438
+Xylose,0,0,AN,1590
+4-((5-Chloro-2-oxo-3(2h)-benzothiazolyl)acetyl)- 1-piperazineethanol,1,1,Ainfec,3212
+Cantabiline,2,2,Ainfla,515
+Acrinol,1,1,Ainfec,3212
+hydrocortisone cypionate,1,1,Ainfec,3212
+Esculoside anhydride,3,3,CNS,1632
+palonosetron,2,2,Ainfla,515
+Ebastine,0,0,AN,1590
+Melengestrol,1,1,Ainfec,3212
+Ceftezole,3,3,CNS,1632
+Evodia fruit,1,1,Ainfec,3212
+Sulfanilamide,5,5,Gi,360
+Gallium trinitrate nonahydrate,3,3,CNS,1632
+Mepitiostane,3,3,CNS,1632
+Apraclonidine,1,1,Ainfec,3212
+Gusperimus,0,0,AN,1590
+Ipodate,0,0,AN,1590
+1-Ethynylcyclohexyl carbamate,3,3,CNS,1632
+sofalcone,1,1,Ainfec,3212
+Cefprozil,0,0,AN,1590
+Flutamide,5,5,Gi,360
+Carprofen,1,1,Ainfec,3212
+Penicillin V,2,2,Ainfla,515
+argatroban,1,1,Ainfec,3212
+Ophthalmic brand of sulthiame,4,4,CdV,1438
+Cefozopran,1,1,Ainfec,3212
+Cefaclor,1,1,Ainfec,3212
+Vedaprofen,2,2,Ainfla,515
+Mivacurium,1,1,Ainfec,3212
+Doxycycline,0,0,AN,1590
+Broxuridine,1,1,Ainfec,3212
+Marbofloxacin,2,2,Ainfla,515
+anecortave acetate,3,3,CNS,1632
+prednisolone farnesylate,2,2,Ainfla,515
+prednisolone tebutate,2,2,Ainfla,515
+Doxacurium,4,4,CdV,1438
+Nitrendipine,0,0,AN,1590
+plaunotol,1,1,Ainfec,3212
+Pibutidine,3,3,CNS,1632
+nateglinide,3,3,CNS,1632
+Dezocine,3,3,CNS,1632
+Tonzonium bromide,3,3,CNS,1632
+Halofuginone,1,1,Ainfec,3212
+Misoprostol,1,1,Ainfec,3212
+"1,2-Dimethyl-3-hydroxypyrid-4-one",0,0,AN,1590
+Streptozocin,5,5,Gi,360
+Mefrusida,1,1,Ainfec,3212
+aripiprazole,0,0,AN,1590
+Sobuzoxane,4,4,CdV,1438
+Quinestrol,1,1,Ainfec,3212
+N-cyclohexyl-2-benzothiazylsulfenamide,0,0,AN,1590
+Merbromin,1,1,Ainfec,3212
+Buformin,0,0,AN,1590
+Triamcinolone acetonide,5,5,Gi,360
+"Benzoic acid, 3,4,5-trimethoxy-, 2-(dimethylamino)-2-phenylbutyl ester",1,1,Ainfec,3212
+Aurobin,2,2,Ainfla,515
+Ubidecarenone,4,4,CdV,1438
+Dronedarone,3,3,CNS,1632
+Butacaine,0,0,AN,1590
+Bis(1-piperidylthiocarbonyl)disulfide,1,1,Ainfec,3212
+"Taurine, monopotassium salt",4,4,CdV,1438
+Neriproct,5,5,Gi,360
+Aldioxa,4,4,CdV,1438
+Trioctanoin,2,2,Ainfla,515
+Ajmaline,4,4,CdV,1438
+Fosinopril,4,4,CdV,1438
+Methenolone enanthate,0,0,AN,1590
+zafirlukast,3,3,CNS,1632
+Aprobarbital,0,0,AN,1590
+Colforsin daropate hydrochloride,4,4,CdV,1438
+2-(2-Diethylaminoethoxy)ethyl 2-ethyl-2-phenylbutyrate,3,3,CNS,1632
+Sulfasalazine,0,0,AN,1590
+Alfacalcidol,3,3,CNS,1632
+Crampol,0,0,AN,1590
+".Alpha.,.alpha.-diphenyl-1-piperidinebutanol",3,3,CNS,1632
+Clidanac,2,2,Ainfla,515
+Hydrochlorothiazide,4,4,CdV,1438
+Ceforanide,1,1,Ainfec,3212
+Acrivastine,4,4,CdV,1438
+Tert-amyloxycarbonyltetragastrin,4,4,CdV,1438
+Troxipide,1,1,Ainfec,3212
+Basic fuchsin,1,1,Ainfec,3212
+everolimus,3,3,CNS,1632
+Opipramol,4,4,CdV,1438
+Ranolazine hydrochloride,3,3,CNS,1632
+escitalopram,2,2,Ainfla,515
+Citalopram,3,3,CNS,1632
+Eptifibatide,3,3,CNS,1632
+melinamide,1,1,Ainfec,3212
+Lacidipine,4,4,CdV,1438
+"3-(2-Chloro-10h-phenothiazin-10-yl)-n,n-dimethylpropan-1-amine",3,3,CNS,1632
+Clocortolone pivalate,4,4,CdV,1438
+Theophylline,1,1,Ainfec,3212
+Fudosteine,0,0,AN,1590
+Tretinoin,0,0,AN,1590
+Sodium metrizoate,4,4,CdV,1438
+Pseudoephedrine,4,4,CdV,1438
+Ephedrine,3,3,CNS,1632
+methotrimeprazine,2,2,Ainfla,515
+Bupivacaine,3,3,CNS,1632
+Brinzolamide,4,4,CdV,1438
+Lomerizine,1,1,Ainfec,3212
+ensulizole,4,4,CdV,1438
+Hesperetin-7-rutinoside,3,3,CNS,1632
+Cep-1538,0,0,AN,1590
+"7H-furo(3,2-g)(1)benzopyran-7-one, 9-methoxy-",4,4,CdV,1438
+Loratadine,1,1,Ainfec,3212
+Fluphenazine decanoate,1,1,Ainfec,3212
+Epalrestat,3,3,CNS,1632
+Iocarmic acid,1,1,Ainfec,3212
+Linezolid,0,0,AN,1590
+Ethaverine,4,4,CdV,1438
+Nimetazepam,3,3,CNS,1632
+Phentolamine,4,4,CdV,1438
+Primaquine,1,1,Ainfec,3212
+Roxithromycin,1,1,Ainfec,3212
+Proflavine hemisulfate,4,4,CdV,1438
+Zofenopril,1,1,Ainfec,3212
+Tramazoline,3,3,CNS,1632
+bucladesine,1,1,Ainfec,3212
+Cinnamedrine,3,3,CNS,1632
+Anisotropine,3,3,CNS,1632
+Methylephedrine,4,4,CdV,1438
+Cyclopentolate hydrochloride,3,3,CNS,1632
+Acitazanolast,3,3,CNS,1632
+moxifloxacin,4,4,CdV,1438
+Gimeracil,0,0,AN,1590
+Chlorcyclizine,4,4,CdV,1438
+raloxifene,1,1,Ainfec,3212
+Difloxacin,3,3,CNS,1632
+Nelfinavir,4,4,CdV,1438
+Cyclopentadrine,3,3,CNS,1632
+N-phenyl-n-acetylglycine dimethylamide,3,3,CNS,1632
+Acamprosatum,1,1,Ainfec,3212
+Acetarsol,1,1,Ainfec,3212
+Fludiazepam,1,1,Ainfec,3212
+Dmps,3,3,CNS,1632
+siccanin,0,0,AN,1590
+Cyanocobalamin,0,0,AN,1590
+Dihydrotachysterol,4,4,CdV,1438
+iloprost,0,0,AN,1590
+Teniposide,1,1,Ainfec,3212
+Diclazuril,4,4,CdV,1438
+"3-(Octadecyloxy)-1,2-propanediol",2,2,Ainfla,515
+Fludrocortisone acetate,3,3,CNS,1632
+Flumazenil,1,1,Ainfec,3212
+Lanoconazole,3,3,CNS,1632
+alprazolam,3,3,CNS,1632
+Dimethothiazine,3,3,CNS,1632
+Lormetazepam,0,0,AN,1590
+Colecalciferol,3,3,CNS,1632
+Bupivacaine,3,3,CNS,1632
+vitamin e,2,2,Ainfla,515
+Capsaicin,2,2,Ainfla,515
+Nonanoyl vanillylamide,1,1,Ainfec,3212
+"B 4, vitami",1,1,Ainfec,3212
+Pheneticillin,2,2,Ainfla,515
+Clofezone,1,1,Ainfec,3212
+doxorubicin,0,0,AN,1590
+Epirubicin,0,0,AN,1590
+Pregnenolone acetate,3,3,CNS,1632
+Levothyroxine,0,0,AN,1590
+Dextrothyroxine,3,3,CNS,1632
+Thyroxine,3,3,CNS,1632
+Lisseril,5,5,Gi,360
+Alendronic acid,3,3,CNS,1632
+"Benzenepropanoic acid, .beta.-(aminomethyl)-4-chloro-",3,3,CNS,1632
+Quaalude,1,1,Ainfec,3212
+Sulfamethizole,3,3,CNS,1632
+Carbenoxolone,0,0,AN,1590
+Cinnamic aldehyde,5,5,Gi,360
+Propylene phenoxetol,2,2,Ainfla,515
+Betamethasone phosphate,0,0,AN,1590
+Lynestrenol,1,1,Ainfec,3212
+Miglustat,5,5,Gi,360
+"Triethylene glycol, sodium salt",4,4,CdV,1438
+Dextromoramide,3,3,CNS,1632
+Tomoxetine,3,3,CNS,1632
+Fosphenytoin,3,3,CNS,1632
+Domiphen bromide,3,3,CNS,1632
+Mefloquine,1,1,Ainfec,3212
+Pyridoxamine-p,3,3,CNS,1632
+exemestane,3,3,CNS,1632
+Proxazole,1,1,Ainfec,3212
+Cefacetrile,0,0,AN,1590
+Trimethoprim,1,1,Ainfec,3212
+Setiptiline,4,4,CdV,1438
+Denopamine,3,3,CNS,1632
+Naloxone,3,3,CNS,1632
+Nitrocobalamin,1,1,Ainfec,3212
+Polymyxin B1,4,4,CdV,1438
+pentoxifylline,3,3,CNS,1632
+Proline,1,1,Ainfec,3212
+Propyl p-benzoate,0,0,AN,1590
+"2,5-Diamino-2-(difluoromethyl)pentanoic acid, monohydrochloride, monohydrate",1,1,Ainfec,3212
+Cromoglicic acid,1,1,Ainfec,3212
+Lexemul 515,3,3,CNS,1632
+Ethotoin,2,2,Ainfla,515
+Tyrothricin,3,3,CNS,1632
+Furosemide,1,1,Ainfec,3212
+Fluconazole,1,1,Ainfec,3212
+balsalazide,0,0,AN,1590
+Y-23023,2,2,Ainfla,515
+Olsalazine,0,0,AN,1590
+Idarubicin,1,1,Ainfec,3212
+Cefaloridine,1,1,Ainfec,3212
+Aluminium clofibrate,3,3,CNS,1632
+"Ethohexadiol, (threo)-isomer",3,3,CNS,1632
+Atovaquone,0,0,AN,1590
+N-pentanoic acid,1,1,Ainfec,3212
+Nicomol,3,3,CNS,1632
+Fluphenazine decanoate,4,4,CdV,1438
+Benzbromarone,4,4,CdV,1438
+Micotil,3,3,CNS,1632
+Pentoxyverine,3,3,CNS,1632
+Diazepam,1,1,Ainfec,3212
+Sorafenib tosilate,1,1,Ainfec,3212
+Sweeta,0,0,AN,1590
+Vandetanib,1,1,Ainfec,3212
+Sulbactam,0,0,AN,1590
+Zaltoprofen,2,2,Ainfla,515
+Cepharanthine,0,0,AN,1590
+Rescimetol,2,2,Ainfla,515
+scopolamine,4,4,CdV,1438
+Gramicidin,1,1,Ainfec,3212
+Ampicillin,1,1,Ainfec,3212
+Adenosine triphosphate,2,2,Ainfla,515
+Ketoprofen,3,3,CNS,1632
+Dexmethylphenidate,3,3,CNS,1632
+methylphenidate,1,1,Ainfec,3212
+Benzalkonium chloride,4,4,CdV,1438
+Pamaquine,1,1,Ainfec,3212
+Levopropoxyphene,3,3,CNS,1632
+Amitraz,3,3,CNS,1632
+Tris-c(7)(5),1,1,Ainfec,3212
+Estradiol enanthate,4,4,CdV,1438
+Pimilprost,4,4,CdV,1438
+Ethanolamine oleate,0,0,AN,1590
+Morphine,3,3,CNS,1632
+Hydromorphone,4,4,CdV,1438
+Arlacel 83,3,3,CNS,1632
+Nicametate,4,4,CdV,1438
+Gemifloxacin,0,0,AN,1590
+Pravastatin,1,1,Ainfec,3212
+Betamethasone acetate,3,3,CNS,1632
+Ro 8-0576-12,2,2,Ainfla,515
+Azatadine,1,1,Ainfec,3212
+"1H-imidazole-5-carboxylic acid, 1-(1-phenylethyl)-, ethyl ester, (+-)-",3,3,CNS,1632
+pentostatin,0,0,AN,1590
+"1,2-Dihydroxyanthraquinone",0,0,AN,1590
+dutasteride,0,0,AN,1590
+Estriol tripropionate,1,1,Ainfec,3212
+1-(4-Chlorophenyl)-5-isopropyl-biguanide hydrochloride,4,4,CdV,1438
+amlexanox,0,0,AN,1590
+Zaltoprofen,1,1,Ainfec,3212
+Diiodohydroxyquinoline,2,2,Ainfla,515
+Ormetoprim,1,1,Ainfec,3212
+nabilone,4,4,CdV,1438
+Nifedipine,3,3,CNS,1632
+Rosuvastatin,4,4,CdV,1438
+Natamycin,1,1,Ainfec,3212
+Pentetreotide,1,1,Ainfec,3212
+Tazanolast,5,5,Gi,360
+Anthralin,0,0,AN,1590
+Testosterone decanoate,0,0,AN,1590
+Mecysteine,1,1,Ainfec,3212
+Dye malachite green,1,1,Ainfec,3212
+Epristeride,1,1,Ainfec,3212
+Pyridostigmine bromide,3,3,CNS,1632
+Tretoquinol,1,1,Ainfec,3212
+Formaldehyde-hydroquinone polymer,1,1,Ainfec,3212
+Idebenonum,0,0,AN,1590
+Sucralose,5,5,Gi,360
+flupenthixol,2,2,Ainfla,515
+Adipiodone,3,3,CNS,1632
+Benzalkonium chloride,0,0,AN,1590
+Nitroprusside,1,1,Ainfec,3212
+Felbinac,2,2,Ainfla,515
+Methacycline,1,1,Ainfec,3212
+Vidarabine,4,4,CdV,1438
+Ibandronic acid,1,1,Ainfec,3212
+Adenosine,3,3,CNS,1632
+Carnitine,1,1,Ainfec,3212
+piperazine,1,1,Ainfec,3212
+Entomin,3,3,CNS,1632
+Tetryzoline,4,4,CdV,1438
+Tocopherol acetate,0,0,AN,1590
+Alpha-tocopherol acetate,0,0,AN,1590
+"3H-1,2-dithiole-3-thione, 5-(4-methoxyphenyl)-",0,0,AN,1590
+Moperone,3,3,CNS,1632
+Acidum valproicum,3,3,CNS,1632
+Zopiclone,3,3,CNS,1632
+Eszopiclone,3,3,CNS,1632
+Ofloxacin,0,0,AN,1590
+levofloxacin,0,0,AN,1590
+Cycloserine,1,1,Ainfec,3212
+Guanabenz,4,4,CdV,1438
+Aspartic acid,4,4,CdV,1438
+formoterol,4,4,CdV,1438
+Betaxolol,0,0,AN,1590
+Alanine,4,4,CdV,1438
+Bacitracinum,4,4,CdV,1438
+Betaxolol,1,1,Ainfec,3212
+Flucloxacillin,3,3,CNS,1632
+Thiopental sodium,4,4,CdV,1438
+Chlor-trimeton,4,4,CdV,1438
+Chlorpheniramine,4,4,CdV,1438
+Nicogamol,1,1,Ainfec,3212
+Streptomycin,1,1,Ainfec,3212
+Alexitol sodium,4,4,CdV,1438
+Phenylpropanolamine,4,4,CdV,1438
+Phenylpropanolamine ,1,1,Ainfec,3212
+Sorbitol,5,5,Gi,360
+1-Palmitoyl-2-oleoyl-sn-glycero-3-phosphocholine,5,5,Gi,360
+Baxter brand of sorbitol,4,4,CdV,1438
+arformoterol,4,4,CdV,1438
+Dibenzothiophene,2,2,Ainfla,515
+"1,2-Benzenedicarboxaldehyde",1,1,Ainfec,3212
+Methylprednisolone succinate,2,2,Ainfla,515
+Primozida,3,3,CNS,1632
+Clofazimine,2,2,Ainfla,515
+Glymor,3,3,CNS,1632
+Eurax,1,1,Ainfec,3212
+Prifinium bromide,4,4,CdV,1438
+Torasemide,3,3,CNS,1632
+Barbexaclone,3,3,CNS,1632
+Levonorgestrel,0,0,AN,1590
+Norgestrel,0,0,AN,1590
+"Hydrochloride, medetomidin",3,3,CNS,1632
+Leucovorin,0,0,AN,1590
+leucovorin,0,0,AN,1590
+Tolindate,1,1,Ainfec,3212
+Etoposide phosphate,2,2,Ainfla,515
+Metamizole sodium,3,3,CNS,1632
+olanzapine,4,4,CdV,1438
+Levobunolol,0,0,AN,1590
+Dexmedetomidine,3,3,CNS,1632
+Ursodiol,5,5,Gi,360
+Chenodiol,5,5,Gi,360
+Quinine,2,2,Ainfla,515
+Tulobuterol,4,4,CdV,1438
+Phenyracillin,4,4,CdV,1438
+Quinidine,4,4,CdV,1438
+Rutin,3,3,CNS,1632
+Pirexyl,0,0,AN,1590
+Quazepam,3,3,CNS,1632
+Temocapril,4,4,CdV,1438
+Azithromycin,4,4,CdV,1438
+Albuterol,4,4,CdV,1438
+Landiolol,1,1,Ainfec,3212
+Sulfafurazole,1,1,Ainfec,3212
+sulpiride,3,3,CNS,1632
+Desoximetasone,5,5,Gi,360
+omeprazole,4,4,CdV,1438
+"Hexahydro-1-(5-isoquinolylsulfonyl)-1h-1,4-diazepine",2,2,Ainfla,515
+Flumetasone,3,3,CNS,1632
+Fenfluramine,1,1,Ainfec,3212
+Neomycin,2,2,Ainfla,515
+Framycetin,1,1,Ainfec,3212
+Fp 83,3,3,CNS,1632
+"Phenol, 4-(1-(4-(2-(dimethylamino)ethoxy)phenyl)-2-(4-(1-methylethyl)phenyl)-1-butenyl)-, dihydrogen phosphate (ester), (e)-",3,3,CNS,1632
+Redux,4,4,CdV,1438
+Methyldopate,0,0,AN,1590
+Fluoxetine,3,3,CNS,1632
+Nisoldipine,3,3,CNS,1632
+Dimenhydrinate,1,1,Ainfec,3212
+metronidazole,4,4,CdV,1438
+Levomethadone,3,3,CNS,1632
+Mebrofenin,3,3,CNS,1632
+itraconazole,1,1,Ainfec,3212
+Dodecafluoropentane,4,4,CdV,1438
+Pilsicainide,4,4,CdV,1438
+Metoprolol,1,1,Ainfec,3212
+tipranavir,3,3,CNS,1632
+Etidocaine,1,1,Ainfec,3212
+Nobecutan,3,3,CNS,1632
+Mexazolam,4,4,CdV,1438
+Lysine,3,3,CNS,1632
+ertapenem,1,1,Ainfec,3212
+Anthralin,0,0,AN,1590
+Carmofur,1,1,Ainfec,3212
+mazaticol,3,3,CNS,1632
+"P',p'-ddt",0,0,AN,1590
+Cefazolin,1,1,Ainfec,3212
+Amosulalol,4,4,CdV,1438
+Pamicogrel,3,3,CNS,1632
+Rokitamycin,1,1,Ainfec,3212
+Indecainide,3,3,CNS,1632
+tacrolimus,0,0,AN,1590
+Norgestimate,1,1,Ainfec,3212
+Osalmid,1,1,Ainfec,3212
+Phenolphthalein,4,4,CdV,1438
+Isoetarine,4,4,CdV,1438
+Hexamethonium bromide,0,0,AN,1590
+Bendazac,2,2,Ainfla,515
+Dronabinol,3,3,CNS,1632
+Fenbufen,2,2,Ainfla,515
+sufentanil,3,3,CNS,1632
+Chlordiazepoxide,3,3,CNS,1632
+Cephalothin,1,1,Ainfec,3212
+Procarbazine hydrochloride,0,0,AN,1590
+Glybuzole,1,1,Ainfec,3212
+celecoxib,2,2,Ainfla,515
+Pirenzepine,5,5,Gi,360
+Oxapium iodide,3,3,CNS,1632
+Cyphenothrin,4,4,CdV,1438
+Perflexane,1,1,Ainfec,3212
+Propranolol,1,1,Ainfec,3212
+Sulfametoxydiazine,4,4,CdV,1438
+Nemorubicin,1,1,Ainfec,3212
+Chloramphenicol succinate sodium,1,1,Ainfec,3212
+Nitarsone,1,1,Ainfec,3212
+Nafcillin,3,3,CNS,1632
+Neostigmine bromide,0,0,AN,1590
+Diethylstilbestrol,4,4,CdV,1438
+Suxamethonium chloride,0,0,AN,1590
+Ketorolac,2,2,Ainfla,515
+Dyclonine,1,1,Ainfec,3212
+Phenol sulfonate,3,3,CNS,1632
+Mibolerone,1,1,Ainfec,3212
+telbivudine,0,0,AN,1590
+"N-acetylmannosamine, (l)-isomer",5,5,Gi,360
+"Histidine, dl-",0,0,AN,1590
+Flavitan,1,1,Ainfec,3212
+Azlocillin,1,1,Ainfec,3212
+Talampicillin,1,1,Ainfec,3212
+Carfecillin,1,1,Ainfec,3212
+Procaterol,4,4,CdV,1438
+Hydrocortisone valerate,3,3,CNS,1632
+Cyclomethycaine,2,2,Ainfla,515
+Daunorubicin,2,2,Ainfla,515
+Salcolex,4,4,CdV,1438
+Guanethidine,3,3,CNS,1632
+Clorbutol,5,5,Gi,360
+Pantoprazole,0,0,AN,1590
+Seldane-d,2,2,Ainfla,515
+Desonide,3,3,CNS,1632
+Sulfacetamide,1,1,Ainfec,3212
+Caspofungin,0,0,AN,1590
+Ly-317615 hydrochloride,1,1,Ainfec,3212
+Loteprednol etabonate,2,2,Ainfla,515
+Iguratimod,0,0,AN,1590
+Bisoxatin diacetate,1,1,Ainfec,3212
+Ribavirin,1,1,Ainfec,3212
+1-(3-Chloroallyl)-hexaminium chloride,5,5,Gi,360
+Dexverapamil,3,3,CNS,1632
+Edrophonium chloride,4,4,CdV,1438
+Dopexamine,4,4,CdV,1438
+Nordefrin,4,4,CdV,1438
+Orion brand of entacapone,3,3,CNS,1632
+Musk,4,4,CdV,1438
+Isoaminile,3,3,CNS,1632
+Pyrrolidone carboxylic acid,3,3,CNS,1632
+Roxatidine,5,5,Gi,360
+Sulconazole,1,1,Ainfec,3212
+Fenproporex,3,3,CNS,1632
+Butyl aminobenzoate,3,3,CNS,1632
+Exatecan,0,0,AN,1590
+Lacidipine,4,4,CdV,1438
+Oxyphencyclimine,3,3,CNS,1632
+Dilevalol,4,4,CdV,1438
+Esmolol,4,4,CdV,1438
+N-(2-(5-methoxy-1h-indol-3-yl)ethyl)acetamide,3,3,CNS,1632
+"1,2,3-Propanetriol, triacetate",1,1,Ainfec,3212
+Temaril,3,3,CNS,1632
+Nalbuphine,3,3,CNS,1632
+Dexamethasone,2,2,Ainfla,515
+Betamethasone,3,3,CNS,1632
+hyoscyamine,2,2,Ainfla,515
+Atropine,3,3,CNS,1632
+Nifenazone,2,2,Ainfla,515
+bucillamine,2,2,Ainfla,515
+bortezomib,0,0,AN,1590
+folic acid,0,0,AN,1590
+Troglitazone,0,0,AN,1590
+Rifampin,1,1,Ainfec,3212
+V-1326,3,3,CNS,1632
+Cetirizine,1,1,Ainfec,3212
+2-(P-bromo-a-(2-(dimethylamino)ethyl)benzyl)pyridine,4,4,CdV,1438
+Brompheniramine,1,1,Ainfec,3212
+"Acetamide, n-(5-(aminosulfonyl)-3-methyl-1,3,4-thiadiazol-2(3h)-ylidene)-",4,4,CdV,1438
+levocetirizine,3,3,CNS,1632
+Kitazemin,1,1,Ainfec,3212
+Pipemidic acid,3,3,CNS,1632
+Bromocriptine,3,3,CNS,1632
+Beserol,3,3,CNS,1632
+4-(2-Benzylphenoxy)-n-methylbutylamine hydrochloride,3,3,CNS,1632
+Rifaximin,3,3,CNS,1632
+Remifentanil,3,3,CNS,1632
+Dextroamphetamine,3,3,CNS,1632
+Amfetamine,3,3,CNS,1632
+Levamfetamine,0,0,AN,1590
+Improsulfan,1,1,Ainfec,3212
+Cisatracurium,3,3,CNS,1632
+Atracurium ,1,1,Ainfec,3212
+Amoxicillin,4,4,CdV,1438
+Paroxetine,3,3,CNS,1632
+Equipertine,3,3,CNS,1632
+Pramipexole,3,3,CNS,1632
+lapatinib,4,4,CdV,1438
+Cetylpyridinium chloride,0,0,AN,1590
+Hydrocortisone,2,2,Ainfla,515
+"Benzoic acid, 3,4,5-trihydroxy-",1,1,Ainfec,3212
+Ibudilast,4,4,CdV,1438
+Milrinone,4,4,CdV,1438
+Diamthazole hydrochloride,4,4,CdV,1438
+Doxapram,2,2,Ainfla,515
+Ad 810,1,1,Ainfec,3212
+Symclosene sodium,3,3,CNS,1632
+Prednisolone phosphate,1,1,Ainfec,3212
+2-(2'-Tetrahydrofuryl)-6-hydroxyethylpenem-3-carboxylate,2,2,Ainfla,515
+Pyridrol,3,3,CNS,1632
+Pidolic acid,3,3,CNS,1632
+Sodium dibunate,1,1,Ainfec,3212
+"4-Pyridinol, 3,5-dichloro-2,6-dimethyl-",1,1,Ainfec,3212
+Mizolastine,0,0,AN,1590
+Azelnidipine,4,4,CdV,1438
+Pranlukast,0,0,AN,1590
+"(17-(Allylamino)-17-demethoxygeldanamycin hydroquinone, hydrochloride)",2,2,Ainfla,515
+Glafenine,4,4,CdV,1438
+Didanosine,1,1,Ainfec,3212
+Cetalkonium chloride,1,1,Ainfec,3212
+Isoflupredone acetate,4,4,CdV,1438
+Moxisylytum,1,1,Ainfec,3212
+Indenolol hydrochloride,2,2,Ainfla,515
+Astemizole,3,3,CNS,1632
+Ibufenac,3,3,CNS,1632
+Nichicaine,1,1,Ainfec,3212
+Lyspafen,4,4,CdV,1438
+Cilnidipine,4,4,CdV,1438
+Epa ethyl ester,3,3,CNS,1632
+Pimobendan,3,3,CNS,1632
+Cocaine,4,4,CdV,1438
+Tocopherol nicotinate,1,1,Ainfec,3212
+Isothipendyl,3,3,CNS,1632
+zaleplon,0,0,AN,1590
+Nicergoline,1,1,Ainfec,3212
+Ranelic acid,1,1,Ainfec,3212
+voriconazole,2,2,Ainfla,515
+Choline gluconate,0,0,AN,1590
+Halcinonide,2,2,Ainfla,515
+Mesalazine,2,2,Ainfla,515
+Flunixin,2,2,Ainfla,515
+Nortriptyline,3,3,CNS,1632
+Amphotericin,0,0,AN,1590
+Undecylenic acid monoethanolamine sulfosuccinate sodium,2,2,Ainfla,515
+Parecoxib,0,0,AN,1590
+Epiestriol,1,1,Ainfec,3212
+Alvimopan,3,3,CNS,1632
+Phenylpropanolamine maleate,3,3,CNS,1632
+methamphetamine,4,4,CdV,1438
+Halidor,5,5,Gi,360
+Alclometasone dipropionate,2,2,Ainfla,515
+Fluticasone propionate,2,2,Ainfla,515
+Probenecid w/ colchicine,3,3,CNS,1632
+Lenampicillin,1,1,Ainfec,3212
+Prociclidina,4,4,CdV,1438
+Poly(malate),3,3,CNS,1632
+"1,3-Naphthalenedisulfonic acid, 6,6'-((3,3'-dimethyl(1,1'-biphenyl)-4,4'-diyl)bis(azo))bis(4-amino-5-hydroxy)-, tetrasodium salt",3,3,CNS,1632
+Phenoxyacetic acid,5,5,Gi,360
+lansoprazole,0,0,AN,1590
+Vinblastine,3,3,CNS,1632
+Bromazepam,4,4,CdV,1438
+Acebutolol,0,0,AN,1590
+drotebanol,3,3,CNS,1632
+2-Methoxy-4-(2-propenyl)phenol,3,3,CNS,1632
+Moditen enanthate,0,0,AN,1590
+Hydroxypropylmethylcellulose acetate succinate,3,3,CNS,1632
+Iomeprol,1,1,Ainfec,3212
+Carindacillin,1,1,Ainfec,3212
+"3-Piperidino-1,2-propanediol dicarbanilate ester",1,1,Ainfec,3212
+Dipyridamolum,4,4,CdV,1438
+Lyc-o-mato,0,0,AN,1590
+Ixabepilone,0,0,AN,1590
+Levulinic acid,1,1,Ainfec,3212
+Chloramphenicol,1,1,Ainfec,3212
+Doxifluridine,1,1,Ainfec,3212
+Benperidol,3,3,CNS,1632
+Tipepidine citrate (1:1),4,4,CdV,1438
+Todralazine,3,3,CNS,1632
+Kitasamycin ,4,4,CdV,1438
+Imidapril,1,1,Ainfec,3212
+Euresol,3,3,CNS,1632
+"2,6-Piperidinedione, 3-ethyl-3-phenyl-",4,4,CdV,1438
+Ammonium mandelate,1,1,Ainfec,3212
+Lindane,1,1,Ainfec,3212
+Kollidon,1,1,Ainfec,3212
+"9,10-Anthracenedione",0,0,AN,1590
+cyclophosphamide,0,0,AN,1590
+Dalfopristin,1,1,Ainfec,3212
+Opc 12759,5,5,Gi,360
+Diflunisal,2,2,Ainfla,515
+mupirocin,1,1,Ainfec,3212
+Mitotane,0,0,AN,1590
+Capreomycin,2,2,Ainfla,515
+Limonene,1,1,Ainfec,3212
+methscopolamine,1,1,Ainfec,3212
+Arotinolol,2,2,Ainfla,515
+Dexlofexidine,3,3,CNS,1632
+aprepitant,3,3,CNS,1632
+Chlortetracycline,1,1,Ainfec,3212
+Deprodone,2,2,Ainfla,515
+Tiopronine,2,2,Ainfla,515
+P-hydroxybenzoic acid propyl ester,3,3,CNS,1632
+Isoflurane,2,2,Ainfla,515
+androstenediol,0,0,AN,1590
+Equipoise,3,3,CNS,1632
+Pyridofylline,1,1,Ainfec,3212
+Pecilocin,0,0,AN,1590
+desglucotransvaaline,4,4,CdV,1438
+ecteinascidins,0,0,AN,1590
+E-5880,0,0,AN,1590
+sirolimus,1,1,Ainfec,3212
+Ampholyt g,3,3,CNS,1632
+Methoxyflurane,1,1,Ainfec,3212
+Capreomycin,1,1,Ainfec,3212
+Sapropterin,2,2,Ainfla,515
+Lornoxicam,1,1,Ainfec,3212
+Mafenide,2,2,Ainfla,515
+Oxatimide,3,3,CNS,1632
+Etretinate,4,4,CdV,1438
+Cefroxadine,1,1,Ainfec,3212
+Saffron,1,1,Ainfec,3212
+Reglitazar,0,0,AN,1590
+Mizoribine,3,3,CNS,1632
+Estazolamum,0,0,AN,1590
+Meclocycline,0,0,AN,1590
+Opc-13013,1,1,Ainfec,3212
+Pethidine,3,3,CNS,1632
+Pramocaine,1,1,Ainfec,3212
+Nitromersol,3,3,CNS,1632
+Medroxyprogesterone,4,4,CdV,1438
+Sodium salicylate and theobromine,4,4,CdV,1438
+Methyl nicotinate,0,0,AN,1590
+Who no. 0918,3,3,CNS,1632
+Barbital,3,3,CNS,1632
+Sorbitan monopalmitate,4,4,CdV,1438
+Flumethasone pivalate,2,2,Ainfla,515
+Masoprocol,2,2,Ainfla,515
+Tafluprost,4,4,CdV,1438
+Oxymetazoline,4,4,CdV,1438
+Isoconazole,4,4,CdV,1438
+Pirbuterol,1,1,Ainfec,3212
+Actarit,2,2,Ainfla,515
+Tandospirone ,3,3,CNS,1632
+Arbekacin,1,1,Ainfec,3212
+Fluorometholone acetate,2,2,Ainfla,515
+etodolac,4,4,CdV,1438
+Mebendazole,1,1,Ainfec,3212
+Meclofenoxato,3,3,CNS,1632
+Moxidectin,3,3,CNS,1632
+Fasoracetam,4,4,CdV,1438
+linoleic acid,0,0,AN,1590
+Benzoxiquine,1,1,Ainfec,3212
+Docusate,1,1,Ainfec,3212
+Azelastine,4,4,CdV,1438
+Pinacidil,0,0,AN,1590
+Stearic acid,1,1,Ainfec,3212
+Tamibarotene,1,1,Ainfec,3212
+Noxitiolinum,3,3,CNS,1632
+Clotiazepam,0,0,AN,1590
+Ceftazidime,1,1,Ainfec,3212
+Trimipramine,3,3,CNS,1632
+lovastatin,2,2,Ainfla,515
+Dimethylaminoethyl reserpilinate dihydrochloride,4,4,CdV,1438
+vitamin k2,4,4,CdV,1438
+Hydroflumethiazide,0,0,AN,1590
+Helmoral b,1,1,Ainfec,3212
+Clofibrate,1,1,Ainfec,3212
+Alupent,4,4,CdV,1438
+Quinine ethylcarbonate,5,5,Gi,360
+Ethylene glycol phenyl ether,1,1,Ainfec,3212
+Diazoxidum,4,4,CdV,1438
+Gestrinone,0,0,AN,1590
+Benzylbenzenecarboxylate,1,1,Ainfec,3212
+Ufenamate,3,3,CNS,1632
+N-(beta-hydroxybutyryl)-p-phenetidine,3,3,CNS,1632
+Cga 184699,1,1,Ainfec,3212
+Glimepiride,4,4,CdV,1438
+Estradiol-3-acetate,3,3,CNS,1632
+Troxidone,4,4,CdV,1438
+Isosorbide,0,0,AN,1590
+Quinapril,4,4,CdV,1438
+"Delta-tocopherol, d-",3,3,CNS,1632
+Meprobamate,3,3,CNS,1632
+para-Aminobenzoic acid,2,2,Ainfla,515
+Apernyl,3,3,CNS,1632
+Chlophendianol hydrochloride,1,1,Ainfec,3212
+Obetrol,3,3,CNS,1632
+Pazopanib,0,0,AN,1590
+Colfosceril palmitate,1,1,Ainfec,3212
+Fludarabine,0,0,AN,1590
+Temodar,4,4,CdV,1438
+Penbutolol,4,4,CdV,1438
+Luliconazole,1,1,Ainfec,3212
+Aclarubicin,0,0,AN,1590
+"1,3-Bis-(2-ethoxycarbonylchromon-5-yloxy)-2-(lysyloxy)propane",0,0,AN,1590
+Tubocurarine ,1,1,Ainfec,3212
+"Riboflavin tetrabutyrate, riboflavin-2-14c-labeled",3,3,CNS,1632
+Na-cemmix,1,1,Ainfec,3212
+Sulbentinum,3,3,CNS,1632
+Clebopride,5,5,Gi,360
+Rescinnamine,4,4,CdV,1438
+Syrosingopine,4,4,CdV,1438
+Doramectin,1,1,Ainfec,3212
+atosiban,1,1,Ainfec,3212
+Tocopheryl succinate,3,3,CNS,1632
+Clonidine,0,0,AN,1590
+"Ethyl-3,7,11-trimethyl-2,4-dodecadienoate",4,4,CdV,1438
+vinpocetine,1,1,Ainfec,3212
+5-Chloro-2-methyl-4-isothiazolin-3-one hydrochloride,3,3,CNS,1632
+Tetrabenazinum,3,3,CNS,1632
+hopantenic acid,3,3,CNS,1632
+Betamethasone dipropionate,0,0,AN,1590
+Sodium phenylacetate,0,0,AN,1590
+Metformin,4,4,CdV,1438
+Oxyfedrine,2,2,Ainfla,515
+10-(3-(4-Hydroxypiperidino)propyl)phenothiazine-2-carbonitrile,2,2,Ainfla,515
+Camphene,3,3,CNS,1632
+aliskiren,0,0,AN,1590
+Gefitinib,4,4,CdV,1438
+Piperidolate,5,5,Gi,360
+"2-Deoxy-2-fluoro-d-glucose, f-18",3,3,CNS,1632
+"Sucrose octaacetate, ((alpha-d)-fructofuranosyl)-isomer",1,1,Ainfec,3212
+Deflazacort,2,2,Ainfla,515
+Rocuronium,1,1,Ainfec,3212
+Cefotetan,4,4,CdV,1438
+Cinnamate sodium,1,1,Ainfec,3212
+Polythiazide,4,4,CdV,1438
+"Hydrochloride, thioridazin",1,1,Ainfec,3212
+Thiamphenicol,3,3,CNS,1632
+Procaine merethoxylline,4,4,CdV,1438
+Tasmar,1,1,Ainfec,3212
+Methylene blue,3,3,CNS,1632
+Celiprolol,1,1,Ainfec,3212
+Camphor (&gt,4,4,CdV,1438
+Amsacrine,4,4,CdV,1438
+Nicardipine,0,0,AN,1590
+Phenprocoumon,2,2,Ainfla,515
+Mbbt,4,4,CdV,1438
+Cinnarizine,3,3,CNS,1632
+clobazam,5,5,Gi,360
+Picosulfate de sodium,1,1,Ainfec,3212
+Erythromycin,4,4,CdV,1438
+Ambroxol,5,5,Gi,360
+Citrate,1,1,Ainfec,3212
+Tolonium,1,1,Ainfec,3212
+Bleomycin,1,1,Ainfec,3212
+Pyrantel,0,0,AN,1590
+Triton x4,2,2,Ainfla,515
+Homosalate,4,4,CdV,1438
+Amrinone,0,0,AN,1590
+Pranazepide,0,0,AN,1590
+Medroxyprogesterone acetate,1,1,Ainfec,3212
+Sulfonphthal,0,0,AN,1590
+fluocinonide,1,1,Ainfec,3212
+"7-Hydroxy-3,7-dimethyloctanal",3,3,CNS,1632
+Trifluoperazinum,2,2,Ainfla,515
+deferasirox,1,1,Ainfec,3212
+Diphenylguanidine,0,0,AN,1590
+Metrizamide,1,1,Ainfec,3212
+Berberine tannate,0,0,AN,1590
+capecitabine,4,4,CdV,1438
+epinephrine,4,4,CdV,1438
+Hydroxocobalamin acetate,0,0,AN,1590
+Gimatecan,1,1,Ainfec,3212
+Iopamidol,3,3,CNS,1632
+2-Amino-6-trifluoromethoxybenzothiazole,1,1,Ainfec,3212
+Tolnaftato,1,1,Ainfec,3212
+Sulfalene,3,3,CNS,1632
+Proxymetacaine,3,3,CNS,1632
+Carnrick brand of metaxalone,1,1,Ainfec,3212
+Hidroxiestilbamidina,4,4,CdV,1438
+Carboprost,1,1,Ainfec,3212
+Silodosin,3,3,CNS,1632
+Amoxapine,4,4,CdV,1438
+Chlorotrianisene,3,3,CNS,1632
+Ethylmorphine,0,0,AN,1590
+Pepstatin,0,0,AN,1590
+"9,12,15-Octadecatrienoic acid, (z,z,z)-",4,4,CdV,1438
+"2,3,4,9-Tetrahydro-2-methyl-9-phenyl-lh-indeno- (2,1-c)pyridine",1,1,Ainfec,3212
+Propagermanium,1,1,Ainfec,3212
+Cefminox,3,3,CNS,1632
+Aconitinum,3,3,CNS,1632
+epinastine,1,1,Ainfec,3212
+Riboflavin phosphate,5,5,Gi,360
+Nizatidine,3,3,CNS,1632
+Flutoprazepam,3,3,CNS,1632
+Methaniazide,1,1,Ainfec,3212
+Febantel,1,1,Ainfec,3212
+Resorcinol disodium salt,0,0,AN,1590
+cetotiamine,1,1,Ainfec,3212
+Chlorophyll,1,1,Ainfec,3212
+Imiprothrin,3,3,CNS,1632
+Huperzine a,1,1,Ainfec,3212
+Sulfisomidine,1,1,Ainfec,3212
+Robenidine,2,2,Ainfla,515
+Loxoprofen,0,0,AN,1590
+Indometacin farnesil,1,1,Ainfec,3212
+Roche brand of carbimazole,2,2,Ainfla,515
+Dihydro-alpha-ergocryptine,1,1,Ainfec,3212
+octotiamine,0,0,AN,1590
+Pyridoxal-p,1,1,Ainfec,3212
+Cilastatin,4,4,CdV,1438
+Calcifediol,1,1,Ainfec,3212
+Spasfon-lyoc,0,0,AN,1590
+azacitidine,3,3,CNS,1632
+Chloroprocaine,4,4,CdV,1438
+Biotin,1,1,Ainfec,3212
+Sulfamethoxypyridazine,1,1,Ainfec,3212
+Floctafenine,3,3,CNS,1632
+Secbutabarbital,2,2,Ainfla,515
+Dantrolene,3,3,CNS,1632
+Alminoprofen,2,2,Ainfla,515
+Tocamphylum,3,3,CNS,1632
+Metharbital,3,3,CNS,1632
+Metiprilona,4,4,CdV,1438
+Sinophenin,0,0,AN,1590
+Thiotepa,3,3,CNS,1632
+Paramethadionum,3,3,CNS,1632
+Isopropyl unoprostone,4,4,CdV,1438
+Dihydroergocornine,4,4,CdV,1438
+Dehydrocholic acid,0,0,AN,1590
+Rosin,5,5,Gi,360
+Buspirone,3,3,CNS,1632
+valsartan,3,3,CNS,1632
+amisulpride,4,4,CdV,1438
+Olopatadine,0,0,AN,1590
+2-Propenyl thiourea,2,2,Ainfla,515
+Ioxaglic acid,4,4,CdV,1438
+Lauricidin,1,1,Ainfec,3212
+Riemser brand of meptazinol hydrochloride,3,3,CNS,1632
+Cloperastine fendizoate,0,0,AN,1590
+Ae0047,1,1,Ainfec,3212
+Cephaloglycin,0,0,AN,1590
+"N-(2,6-dioxo-3-piperidyl)phthalimide",4,4,CdV,1438
+Kitasamycin,0,0,AN,1590
+Calcium metrizoate,1,1,Ainfec,3212
+Norfenefrine,4,4,CdV,1438
+Vaporole,4,4,CdV,1438
+Cefalexin,1,1,Ainfec,3212
+Cefoperazone,1,1,Ainfec,3212
+Ribostamycin,1,1,Ainfec,3212
+Loxapine,3,3,CNS,1632
+Tacalcitol,1,1,Ainfec,3212
+Cymelarsan,4,4,CdV,1438
+Amodiaquine,1,1,Ainfec,3212
+Bisbutitiamine,1,1,Ainfec,3212
+emtricitabine,1,1,Ainfec,3212
+Sulbenicillin,1,1,Ainfec,3212
+Deslanoside,1,1,Ainfec,3212
+entecavir,3,3,CNS,1632
+"O-(5,6,7,8-tetrahydro-2-naphthyl)-6-methoxy-n-methylthio-2-pyridinecarbamate",3,3,CNS,1632
+Camylofin,4,4,CdV,1438
+Aranidipine,3,3,CNS,1632
+Tindal,2,2,Ainfla,515
+Nafamostat,4,4,CdV,1438
+Urispas,4,4,CdV,1438
+Disopyramide,3,3,CNS,1632
+Benzthiazide,1,1,Ainfec,3212
+Ezetimibe,0,0,AN,1590
+Mercaptopurine,1,1,Ainfec,3212
+thiamphenicol,3,3,CNS,1632
+Vigabatrin,3,3,CNS,1632
+Methylergometrine,4,4,CdV,1438
+pimecrolimus,4,4,CdV,1438
+N-methyl-2-pyridin-2-ylethanamine,2,2,Ainfla,515
+Digalloyltrioleate,4,4,CdV,1438
+terlipressin,0,0,AN,1590
+Chlorpropamide,1,1,Ainfec,3212
+"1-(3'-Trifluoromethyl-4'-nitrophentyl)-4,4-dimethylimidazoline 2,5-dione",3,3,CNS,1632
+Cefuzonam,1,1,Ainfec,3212
+He-11,3,3,CNS,1632
+Midazolam,1,1,Ainfec,3212
+"5-Amino-1-(2,6-dichloro-alpha,alpha,alpha-trifluoro-p-tolyl)-4-trifluoromethylsulfinylpyrazole-3-carbonitile",0,0,AN,1590
+Oxcarbazepine,2,2,Ainfla,515
+Dicloxacillin,1,1,Ainfec,3212
+Bekanamycin,1,1,Ainfec,3212
+Homatropine,3,3,CNS,1632
+Asenapine,3,3,CNS,1632
+Furazabol,1,1,Ainfec,3212
+Fumagillin,1,1,Ainfec,3212
+Metrifonate,0,0,AN,1590
+"2-Oxazolidinone, 3-(3-(hexahydro-1h-azepin-1-yl)propyl)-4-(2-methylpropyl)-5-phenyl-, (4s-cis)-",3,3,CNS,1632
+Propantheline bromide,5,5,Gi,360
+Delavirdine,0,0,AN,1590
+Carmustine,1,1,Ainfec,3212
+Fluprednisolone,4,4,CdV,1438
+Spiclomazinum,2,2,Ainfla,515
+Testosterone cypionate,3,3,CNS,1632
+Lilly brand of pemoline,0,0,AN,1590
+Norethisterone,0,0,AN,1590
+Kebuzone,1,1,Ainfec,3212
+Hydroxychloroquine,2,2,Ainfla,515
+lisuride,4,4,CdV,1438
+Phenacemide,3,3,CNS,1632
+Lofepramine,1,1,Ainfec,3212
+Cilengitide,3,3,CNS,1632
+Imexon,0,0,AN,1590
+Acitretin,4,4,CdV,1438
+Calcium glubionate,0,0,AN,1590
+Mianserin,3,3,CNS,1632
+Quetiapine,3,3,CNS,1632
+Citicolinum,3,3,CNS,1632
+R-18553,5,5,Gi,360
+Drospirenone,0,0,AN,1590
+Levocabastine,1,1,Ainfec,3212
+Benzoic acid,3,3,CNS,1632
+Flavoxato,2,2,Ainfla,515
+P-hydroxybenzoic acid ethyl ester,0,0,AN,1590
+Retinol,3,3,CNS,1632
+Meclozina,0,0,AN,1590
+Dimefline,3,3,CNS,1632
+Meso-zeaxanthin,4,4,CdV,1438
+Iproheptina,0,0,AN,1590
+Fluocortolone pivalate,5,5,Gi,360
+Proglumide,5,5,Gi,360
+Bismuth subcarbonate,0,0,AN,1590
+Hanegif,4,4,CdV,1438
+Nilvadipine,4,4,CdV,1438
+sumatriptan,4,4,CdV,1438
+Digoxin,4,4,CdV,1438
+Deserpidine,3,3,CNS,1632
+Acetaminophen mixture with butalbital,3,3,CNS,1632
+Etosuximida,4,4,CdV,1438
+Fenoterol,4,4,CdV,1438
+Epicriptine,1,1,Ainfec,3212
+Ceftibuten,4,4,CdV,1438
+Dimyristoyl lecithin,4,4,CdV,1438
+Alverine,1,1,Ainfec,3212
+Sulfamerazine,4,4,CdV,1438
+paramethasone acetate,1,1,Ainfec,3212
+Eutanol g,2,2,Ainfla,515
+protoporphyrin ix,1,1,Ainfec,3212
+Erdosteine,3,3,CNS,1632
+varenicline,4,4,CdV,1438
+Sulfacetamide,1,1,Ainfec,3212
+Norethindrone acetate,0,0,AN,1590
+Betacarotene,0,0,AN,1590
+Acreozast,3,3,CNS,1632
+Orbifloxacin,1,1,Ainfec,3212
+Oseltamivir,0,0,AN,1590
+ranitidine,5,5,Gi,360
+Noscapine,1,1,Ainfec,3212
+Thenyldiamine hydrochloride,3,3,CNS,1632
+selegiline,1,1,Ainfec,3212
+Lamotrigine,3,3,CNS,1632
+Glucuronolactone,1,1,Ainfec,3212
+phytomenadione,3,3,CNS,1632
+Clomethiazolum,0,0,AN,1590
+Diethanolamine methoxycinnamate,1,1,Ainfec,3212
+Piperacillin,0,0,AN,1590
+docetaxel,4,4,CdV,1438
+Dicycloverine,1,1,Ainfec,3212
+Cefadroxil,3,3,CNS,1632
+"Iophendylate, o",2,2,Ainfla,515
+Tranilast,1,1,Ainfec,3212
+Albendazole,3,3,CNS,1632
+Paral,0,0,AN,1590
+Nitisinone,0,0,AN,1590
+"2-(4-Methoxyphenyl)-1h-indene-1,3(2h)-dione",4,4,CdV,1438
+Clodronic Acid,2,2,Ainfla,515
+Niceritrol,0,0,AN,1590
+Ethylestrenol,4,4,CdV,1438
+Amantadine,3,3,CNS,1632
+Oberadilol,1,1,Ainfec,3212
+Acrisorcinum,4,4,CdV,1438
+Esatenolol,1,1,Ainfec,3212
+ethchlorvynol,4,4,CdV,1438
+Metiazinic acid,2,2,Ainfla,515
+Halopredone,2,2,Ainfla,515
+Etoposide,4,4,CdV,1438
+Methacholine chloride,4,4,CdV,1438
+bepotastine,5,5,Gi,360
+2-Phenylpropanol,0,0,AN,1590
+Cyclothiazide,3,3,CNS,1632
+Fidarestat,4,4,CdV,1438
+"Phenol, 5-methyl-2-(1-methylethyl)-",1,1,Ainfec,3212
+Amiodarone,1,1,Ainfec,3212
+Auranofin,1,1,Ainfec,3212
+Beta-aminopropionitrile fumarate (2:1),3,3,CNS,1632
+Minolteparin sodium molindone,4,4,CdV,1438
+Isocarboxazid,3,3,CNS,1632
+Aspoxicillin,1,1,Ainfec,3212
+Ecamsule,3,3,CNS,1632
+"4H-thiazolo(4,5-d)azepin-2-amine, 5,6,7,8-tetrahydro-6-(2-propenyl)-, dihydrochloride",2,2,Ainfla,515
+Bevonium metilsulfate,1,1,Ainfec,3212
+"Estr-4-ene-3 beta,17 beta-diol dipropionate",4,4,CdV,1438
+Ozagrel,4,4,CdV,1438
+Midodrine,0,0,AN,1590
+Nandrolone phenpropionate,3,3,CNS,1632
+Uvinul n-539,2,2,Ainfla,515
+pholcodine,3,3,CNS,1632
+lercanidipine,1,1,Ainfec,3212
+Benezenesulfonate,1,1,Ainfec,3212
+Phenol,4,4,CdV,1438
+Itopride,3,3,CNS,1632
+Primidonum,1,1,Ainfec,3212
+Polyglutaraldehyde,4,4,CdV,1438
+Propylthiouracil,1,1,Ainfec,3212
+Meralein sodium,0,0,AN,1590
+Butorphanol,3,3,CNS,1632
+3Nitro1,3,3,CNS,1632
+Adapalene,1,1,Ainfec,3212
+Fenbendazole,5,5,Gi,360
+Nepaprazole,1,1,Ainfec,3212
+Praziquantel,4,4,CdV,1438
+Carbamylcholine chloride,0,0,AN,1590
+Nsc-4911,1,1,Ainfec,3212
+Penciclovir,3,3,CNS,1632
+Poly-2-methyl-5-vinylpyridine picrate,2,2,Ainfla,515
+Tryptophan,3,3,CNS,1632
+Decanohydroxamic acid,1,1,Ainfec,3212
+Vecuronium,0,0,AN,1590
+Alpha-terpineol,1,1,Ainfec,3212
+Racementhol,1,1,Ainfec,3212
+Sisomicin,0,0,AN,1590
+Acenocoumarol,1,1,Ainfec,3212
+Cefuroxime axetil,1,1,Ainfec,3212
+Ceftizoxime,1,1,Ainfec,3212
+physostigmine,0,0,AN,1590
+"Imidazolidinyl urea, monosodium salt",3,3,CNS,1632
+abacavir,1,1,Ainfec,3212
+Amezinium,1,1,Ainfec,3212
+Midamor,0,0,AN,1590
+Sulfatolamide,1,1,Ainfec,3212
+Isocaine,3,3,CNS,1632
+Meradimate,3,3,CNS,1632
+Prednisolone valerate acetate,4,4,CdV,1438
+Propafenone,1,1,Ainfec,3212
+Forodesine,2,2,Ainfla,515
+"Pentanoic acid, 5-amino-4-oxo-",3,3,CNS,1632
+Diflorasone diacetate,2,2,Ainfla,515
+Eprinomectin,3,3,CNS,1632
+Mephobarbital,4,4,CdV,1438
+Hexetidine,1,1,Ainfec,3212
+Efloxate,2,2,Ainfla,515
+Desogestrel,0,0,AN,1590
+Merbromin,0,0,AN,1590
+Hexafluronium bromide,3,3,CNS,1632
+Doxylamine chlorotheophyllinate,4,4,CdV,1438
+Etafenone,2,2,Ainfla,515
+Propyphenazone,0,0,AN,1590
+Esquinon,3,3,CNS,1632
+"1-Piperidinepropanol, alpha-cyclohexyl-alpha-phenyl-, hydrochloride, mixt. with n-methyl-n-(2-phenylethyl)benzeneethanamine hydrochloride",3,3,CNS,1632
+Tiabendazole,3,3,CNS,1632
+Risarestat,1,1,Ainfec,3212
+Cevimeline,4,4,CdV,1438
+Enalaprilat,1,1,Ainfec,3212
+Morantel,3,3,CNS,1632
+aceglutamide,4,4,CdV,1438
+salicylic,2,2,Ainfla,515
+Pirrolnitrina,1,1,Ainfec,3212
+Betamipronum,1,1,Ainfec,3212
+Bendamustine,3,3,CNS,1632
+"N trichloromethylthio 4 cyclohexane 1,2 dicarboximid",0,0,AN,1590
+Bisdequalinium diacetate,3,3,CNS,1632
+Methoxyphenamine,1,1,Ainfec,3212
+Cloquinate,1,1,Ainfec,3212
+Omoconazole,4,4,CdV,1438
+Tropicamide,4,4,CdV,1438
+Tripamide,4,4,CdV,1438
+Paliperidone,3,3,CNS,1632
+Xanthophyll palmitate,1,1,Ainfec,3212
+Rolitetracycline,4,4,CdV,1438
+Tolazoline,1,1,Ainfec,3212
+Isopropyl palmitate,3,3,CNS,1632
+2-((2-(Dimethylamino)ethyl)(4-methoxybenzyl)amino)pyrimidine,4,4,CdV,1438
+Amlodipine,1,1,Ainfec,3212
+"N,n-dimethyl-n'-2-pyridinyl-n'-(2-thienylmethyl)-1,2-ethanediamine",4,4,CdV,1438
+Ergometrine,4,4,CdV,1438
+Norepinephrine,0,0,AN,1590
+Effexor,3,3,CNS,1632
+Diloxanide,1,1,Ainfec,3212
+Rimexolone,1,1,Ainfec,3212
+Denufosol [inn],1,1,Ainfec,3212
+Fosfomycin,3,3,CNS,1632
+Temazepam,2,2,Ainfla,515
+Fosveset,0,0,AN,1590
+Pentosan polysulfate sodium,3,3,CNS,1632
+Tolycaine,3,3,CNS,1632
+Prednisolone succinate,3,3,CNS,1632
+Disulfiram,2,2,Ainfla,515
+Niclosamide,1,1,Ainfec,3212
+mitoxantrone,1,1,Ainfec,3212
+Sulfaphenazole,0,0,AN,1590
+erlotinib,0,0,AN,1590
+Pleuromulin,3,3,CNS,1632
+Nitrazepam,1,1,Ainfec,3212
+Mephenytoin,3,3,CNS,1632
+Bufexamac,3,3,CNS,1632
+Prazepine,3,3,CNS,1632
+Lafutidine,5,5,Gi,360
+Moxonidine,4,4,CdV,1438
+Zelandopam,1,1,Ainfec,3212
+"Mercury, (acetato-o)phenyl-",4,4,CdV,1438
+Indisetron,0,0,AN,1590
+"N,n-dimethyl-2-(alpha-phenyl-o-tolyloxy)ethylamine",0,0,AN,1590
+flunisolide,1,1,Ainfec,3212
+Ethoxazolamide,1,1,Ainfec,3212
+Quixalin,2,2,Ainfla,515
+Exalamide,2,2,Ainfla,515
+Chlorophenesin carbamate (innm),3,3,CNS,1632
+alprostadil,4,4,CdV,1438
+zeranol,1,1,Ainfec,3212
+Tolazamide,3,3,CNS,1632
+Micronomicin,1,1,Ainfec,3212
+Coccidot,4,4,CdV,1438
+Pentolonium,1,1,Ainfec,3212
+Alclofenac,2,2,Ainfla,515
+"2-((1-Benzylpiperidin-4-yl)methyl)-5,6-dimethoxyindan-1-one",3,3,CNS,1632
+Alfentanil,3,3,CNS,1632
+Cinacalcet,0,0,AN,1590
+Cinoxacin,3,3,CNS,1632
+Procaine,3,3,CNS,1632
+Phenothrine,4,4,CdV,1438
+Thymol iodide,0,0,AN,1590
+Sulfabenzamide,4,4,CdV,1438
+Glyceryl-1-monooctanoate,0,0,AN,1590
+Penflutizide,1,1,Ainfec,3212
+Inosine,4,4,CdV,1438
+Amifostine,4,4,CdV,1438
+Arimoclomol,4,4,CdV,1438
+Antazoline,4,4,CdV,1438
+Tannic acid,0,0,AN,1590
+2-Hydroxy-4-methoxybenzophenone-5-sulfonic acid,5,5,Gi,360
+Fluticasone,2,2,Ainfla,515
+"1-(2-(Naphth-2-yl)ethyl)-4-(3-trifluoromethylphenyl)-1,2,5,6-tetrahydropyridine hydrochloride",3,3,CNS,1632
+Enocitabine,0,0,AN,1590
+Mycophenolic acid,1,1,Ainfec,3212
+Tobicillin,2,2,Ainfla,515
+Benorilate,1,1,Ainfec,3212
+Levormeloxifene,1,1,Ainfec,3212
+"2,4-Dichlorobenzyl alcohol",4,4,CdV,1438
+Chlorothiazide,4,4,CdV,1438
+Benazepril,0,0,AN,1590
+Oxaliplatin,4,4,CdV,1438
+Meloxicam,0,0,AN,1590
+"1-Hydroxy-5-oxo-5h-pyrido(3,2-a)phenoxazine-3-carboxylic acid",1,1,Ainfec,3212
+vorinostat,0,0,AN,1590
+Nimodipine,4,4,CdV,1438
+Naproxen,2,2,Ainfla,515
+Ca(ca(hp-d03a))2,0,0,AN,1590
+dacarbazine,0,0,AN,1590
+"Isoborneol, (1s-endo)-isomer",0,0,AN,1590
+Tioguanine,1,1,Ainfec,3212
+Benzethonium chloride,2,2,Ainfla,515
+Simvastatin,1,1,Ainfec,3212
+Mesuximidum,2,2,Ainfla,515
+Sodium methylsalicylate,3,3,CNS,1632
+guanfacine,4,4,CdV,1438
+alfuzosin,1,1,Ainfec,3212
+Phenyliodoundecynoate,0,0,AN,1590
+Meclofenamic acid,1,1,Ainfec,3212
+Iodohippurate sodium i 125,2,2,Ainfla,515
+Cefluprenam,1,1,Ainfec,3212
+Doxazosin,4,4,CdV,1438
+irbesartan,4,4,CdV,1438
+Tacrine,1,1,Ainfec,3212
+"Pimeprofen, (-)-isomer",1,1,Ainfec,3212
+Tetramisole,4,4,CdV,1438
+Sucrose,5,5,Gi,360
+ bismuth subsalicylate,2,2,Ainfla,515
+Buphenine,3,3,CNS,1632
+Levodopa,4,4,CdV,1438
+Proglumetacin,3,3,CNS,1632
+Rizatriptan,1,1,Ainfec,3212
+Enzacamene,2,2,Ainfla,515
+Cefpimizole,1,1,Ainfec,3212
+Lisinopril,4,4,CdV,1438
+Triamcinolone hexacetonide,2,2,Ainfla,515
+Quinupristin,5,5,Gi,360
+Mosapride,3,3,CNS,1632
+Protriptyline,3,3,CNS,1632
+Nefazodone,1,1,Ainfec,3212
+Zanamivir,1,1,Ainfec,3212
+Pivmecillinam,1,1,Ainfec,3212
+Atorvastatin,1,1,Ainfec,3212
+Iopromide,3,3,CNS,1632
+zolmitriptan,1,1,Ainfec,3212
+orlistat,4,4,CdV,1438
+darifenacin,1,1,Ainfec,3212
+Ethyl phthalate ethyl glycollate,0,0,AN,1590
+Glutamine,3,3,CNS,1632
+Cyanocobalamin (60 Co),3,3,CNS,1632
+Phenylalanine,1,1,Ainfec,3212
+Viomycin,4,4,CdV,1438
+Secalciferol,4,4,CdV,1438
+"2,6,10,15,19,23-Hexamethyltetracosane",1,1,Ainfec,3212
+Lamivudine,3,3,CNS,1632
+Benzocaine,1,1,Ainfec,3212
+Sibutramine,3,3,CNS,1632
+Escalol 507,3,3,CNS,1632
+tamsulosin,0,0,AN,1590
+Sparfloxacin,4,4,CdV,1438
+Pyrabrom,4,4,CdV,1438
+Octisalate,2,2,Ainfla,515
+Bromazine,3,3,CNS,1632
+Scopolamine n-oxide,2,2,Ainfla,515
+cianidanol,1,1,Ainfec,3212
+O-chloromercuriphenol,5,5,Gi,360
+Ridinol,3,3,CNS,1632
+Prednisolone,1,1,Ainfec,3212
+"(T-4)-bis(dibutylcarbamodithioato-s,s')zinc",2,2,Ainfla,515
+Simetridum,1,1,Ainfec,3212
+Silver sulfadiazine,1,1,Ainfec,3212
+"Benzenepropanamine, n-(1-methyl-2-phenylethyl)-gamma-phenyl-",4,4,CdV,1438
+Ethinyl estradiol,0,0,AN,1590
+Norethynodrel,1,1,Ainfec,3212
+Panipenem,0,0,AN,1590
+rivastigmine,3,3,CNS,1632
+Ropinirole,3,3,CNS,1632
+Ibutilide,0,0,AN,1590
+Tegafur,4,4,CdV,1438
+Tapentadol,3,3,CNS,1632
+Chlortetracycline,1,1,Ainfec,3212
+bosentan,4,4,CdV,1438
+Salmeterol,4,4,CdV,1438
+Vesnarinone,4,4,CdV,1438
+Mosapramine,3,3,CNS,1632
+Tridihexethyl,3,3,CNS,1632
+ciclesonide,2,2,Ainfla,515
+Difluprednate,2,2,Ainfla,515
+"4.Alpha.,5-epoxy-3,17.beta.-dihydroxy-5.alpha.-androst-2-ene-2-carbonitrile",1,1,Ainfec,3212
+Butoconazole,0,0,AN,1590
+Hmbp cpd,3,3,CNS,1632
+Oxiconazole,1,1,Ainfec,3212
+Bornelone,0,0,AN,1590
+Papaverine hydrochloride,2,2,Ainfla,515
+Ethenzamide,1,1,Ainfec,3212
+Cloxiquine,4,4,CdV,1438
+Cetraxate,5,5,Gi,360
+amikacin,1,1,Ainfec,3212
+Leuprorelin,3,3,CNS,1632
+Ludiomil,3,3,CNS,1632
+Carisoprodol,3,3,CNS,1632
+Tranylcypromine,0,0,AN,1590
+Epitiostanol,1,1,Ainfec,3212
+Flusalan,1,1,Ainfec,3212
+Mithramycin,0,0,AN,1590
+Podofilox,0,0,AN,1590
+Imatinib,3,3,CNS,1632
+"2,5-Pyrrolidinedione, 1-methyl-3-phenyl-, (+/-)-",1,1,Ainfec,3212
+Diclofenamide,0,0,AN,1590
+Osutidine,4,4,CdV,1438
+Primobolan s,4,4,CdV,1438
+"Ethyl linoleate-9,10,12,13-d4",4,4,CdV,1438
+Nicorandil,2,2,Ainfla,515
+"Methylparaben, sodium salt",0,0,AN,1590
+ciprofloxacin,0,0,AN,1590
+Metolazone,4,4,CdV,1438
+Denatonium benzoate,3,3,CNS,1632
+Cyclandelate,4,4,CdV,1438
+Travoprost,3,3,CNS,1632
+Glyceryl aminobenzoate,1,1,Ainfec,3212
+Bismuth subgallate hydrate,4,4,CdV,1438
+carvedilol,4,4,CdV,1438
+Azithromycin,3,3,CNS,1632
+Tegaserod,1,1,Ainfec,3212
+Lestaurtinib,1,1,Ainfec,3212
+Calomel (mercurous chloride),1,1,Ainfec,3212
+Gallii (67ga) citras,4,4,CdV,1438
+Manganese glycerophosphate,1,1,Ainfec,3212
+Zinc phenolsulfonate,1,1,Ainfec,3212
+Thallium,1,1,Ainfec,3212
+Indium in-111 chloride,1,1,Ainfec,3212
+Mercury,1,1,Ainfec,3212
+"Stannous chloride, 2h-labeled",1,1,Ainfec,3212
+Technetium,1,1,Ainfec,3212
+Silicon hexafluoride dihydride,1,1,Ainfec,3212
+Bismuth subnitrate,5,5,Gi,360
+Dichromate,5,5,Gi,360
+"Manganese phosphate, dibasic",1,1,Ainfec,3212
+Zinc sulfide,1,1,Ainfec,3212
+Manganese,0,0,AN,1590
+Aluminum lactate,1,1,Ainfec,3212
+Antimony pentasulfide,2,2,Ainfla,515
+Mercuric salicylate,1,1,Ainfec,3212
+Chromium (IV),5,5,Gi,360
+Niccolum carbonicum,1,1,Ainfec,3212
+Bismuth,0,0,AN,1590
+Technetium sq 30217,3,3,CNS,1632
+Technetium tc-99m hexakis(2-methoxy isobutyl isocyanide),1,1,Ainfec,3212
+"Lead acetate, hydrate",3,3,CNS,1632
+"1,1-Ethanediol, 2,2,2-trichloro-",1,1,Ainfec,3212
+Perflubutane,1,1,Ainfec,3212
+Elemental copper,1,1,Ainfec,3212
+Cinnabar,1,1,Ainfec,3212
+H2-o2-pb,1,1,Ainfec,3212
+"Uranium, bis(nitrato-o)dioxo-, (t-4)-",5,5,Gi,360
+Silver ammonia fluoride,1,1,Ainfec,3212
+Technetium tc-99m sodium pertechnetate,1,1,Ainfec,3212
+Rhodium,5,5,Gi,360
+Chromium(3+) chloride,1,1,Ainfec,3212
+Platinum chloride,1,1,Ainfec,3212
+Vanadium,1,1,Ainfec,3212
+Diarsenic trioxide,1,1,Ainfec,3212
+"Sodium metabisulfite, 35s2-labeled cpd",1,1,Ainfec,3212
+Aluminum zirconium tetrachlorohydrate,5,5,Gi,360
+Cobalt dichloride,1,1,Ainfec,3212
+Palladium,1,1,Ainfec,3212
+Potassium ferrocyanide,5,5,Gi,360
+Metabisulphite,0,0,AN,1590
+Manganese(ii),1,1,Ainfec,3212
+Ferric pyrophosphate,1,1,Ainfec,3212
+Nickel (ii) acetate,1,1,Ainfec,3212
+Ferric sulfate trihydrate,1,1,Ainfec,3212
+Silver colloidal,1,1,Ainfec,3212
+Molybdenum,1,1,Ainfec,3212
+Thiocyanoacetate,1,1,Ainfec,3212
+"Ammonium bicarbonate, nh4-zn salt",1,1,Ainfec,3212
+Mercuric oleate,1,1,Ainfec,3212
+Sodium molybdate,1,1,Ainfec,3212
+Ferriseltz,1,1,Ainfec,3212
+Antimony sulfide,1,1,Ainfec,3212
+Chromium(iii),1,1,Ainfec,3212
+Polihexanide,5,5,Gi,360
+"Monocesium arsenate, 2h-labeled",1,1,Ainfec,3212
+Yttrium chloride hexahydrate,1,1,Ainfec,3212
+Mercury(i) chloride,1,1,Ainfec,3212
+Argentum cyanatum,0,0,AN,1590
+Lead phosphate (2:3),1,1,Ainfec,3212
+Silicone antifoam 1510,1,1,Ainfec,3212
+Bismuth sulfide (bi2s3),1,1,Ainfec,3212
+Mercuric iodide,3,3,CNS,1632
+Desflurane,3,3,CNS,1632
+"Sodium molybdate(vi), 99mo-labeled cpd",5,5,Gi,360
+Ferric chloride,1,1,Ainfec,3212
+Mercuric perchloride,5,5,Gi,360
+Almadrate sulfate,1,1,Ainfec,3212
+Titanium(iv),1,1,Ainfec,3212
+"Iodohippurate sodium, i-131",0,0,AN,1590
+"Chlormerodrin, hg-197",1,1,Ainfec,3212
+Isobornyl thiocyanoacetate,1,1,Ainfec,3212
+Antimony trichloride,5,5,Gi,360
+Anilinium tripolyphosphate,1,1,Ainfec,3212
+Arsenic,1,1,Ainfec,3212
+Argentum phosphoricum,1,1,Ainfec,3212
+"Zinc iodide, (65)zn-labeled",1,1,Ainfec,3212
+"Hexafluoride, sulfu",1,1,Ainfec,3212
+Cadmium sulfide,1,1,Ainfec,3212
+Ferropolimalerum,1,1,Ainfec,3212
+Perflutren,1,1,Ainfec,3212
+Antimony,1,1,Ainfec,3212
+Sodium aluminum chlorohydroxy lactate (aerosol),1,1,Ainfec,3212
+"Gold chloride (aucl3), dihydrate",0,0,AN,1590
+Sodium acid pyrophosphate,5,5,Gi,360
+Cobalt,1,1,Ainfec,3212
+Zirconium hydroxide,1,1,Ainfec,3212
+Phenylmercuric nitrate,1,1,Ainfec,3212
+Hydroxypropylmethylcellulose phthalate,5,5,Gi,360
+Cellaburate,0,0,AN,1590
+"3',4'-Anhydroadenosylcobalamin",1,1,Ainfec,3212
+D-glycero-D-gulo-Heptonic acid,1,1,Ainfec,3212
+Stannous fluoride,1,1,Ainfec,3212
+Polidronium chloride,1,1,Ainfec,3212
+"(Mg,fe)sio3",3,3,CNS,1632
+Dimethylarsinic acid,1,1,Ainfec,3212
+Ferrous citrate,5,5,Gi,360
+Dextran sulfate sodium sulfur 18,1,1,Ainfec,3212
+Chromic nitrate,1,1,Ainfec,3212
+Thallium sulfate dithallium (+1) salt,1,1,Ainfec,3212
+Nickel chloride,1,1,Ainfec,3212
+Prussian blue,5,5,Gi,360
+Permanganate,1,1,Ainfec,3212
+Tetrofosmin,1,1,Ainfec,3212
+Zinc undecylenate,1,1,Ainfec,3212
+"Thallous chloride, tl-201",0,0,AN,1590
+Ammonium molybdate,1,1,Ainfec,3212
+Tin tetrachloride,1,1,Ainfec,3212
+Cysteamine,1,1,Ainfec,3212
+Fondaparinux,1,1,Ainfec,3212
+"Ferrous citrate, fe-59",1,1,Ainfec,3212
+Silicic acid (h4si04) zirconium(4+) salt (1:1),1,1,Ainfec,3212
+Ferrotreninum,2,2,Ainfla,515
+Aminosalicylic acid resin complex,1,1,Ainfec,3212
+"Sulfur, colloidal",0,0,AN,1590
+Zinc lactate,1,1,Ainfec,3212
+Cisplatin,1,1,Ainfec,3212
+Feco3,1,1,Ainfec,3212
+"Cupric chloride, dihydrate 2h-labeled cpd",4,4,CdV,1438
+Propylene glycol stearate,5,5,Gi,360
+Betaine hydrochloride,0,0,AN,1590
+"Mercuric chloride, ammoniated",1,1,Ainfec,3212
+Ferrous gluconate,1,1,Ainfec,3212
+Metoxamina,4,4,CdV,1438
+Calcium trisodium pentetate,1,1,Ainfec,3212
+Cuprum nitricum,1,1,Ainfec,3212
+Technetium,3,3,CNS,1632
+Ramoplanin,1,1,Ainfec,3212
+Lepirudin,1,1,Ainfec,3212
+Hyprolosum,1,1,Ainfec,3212
+Teriparatide,1,1,Ainfec,3212
+Semduramicin,1,1,Ainfec,3212
+Bambermycin,4,4,CdV,1438
+Ly-275585,1,1,Ainfec,3212
+Somatostatin,4,4,CdV,1438
