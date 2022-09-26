@@ -41,8 +41,8 @@ def build_model(input_data):
     prediction_output = pd.Series(prediction, name='Class')
     molecule_name = pd.Series(load_data[1], name='molecule_name')
     df = pd.concat([molecule_name, prediction_output], axis=1)
-    #dict_duration = {0:'AN', 1 :'Ainfec', 2 : 'Ainfla', 3: 'CNS',4:'Cdv',5:'Gi'}
-    #df = df.replace({"Class": dict_duration})
+    dict_duration = {0:'High affinity', 1 :'Low affinity'}
+    df = df.replace({"Class": dict_duration})
     st.write(df)
     st.markdown(filedownload(df), unsafe_allow_html=True)
 
