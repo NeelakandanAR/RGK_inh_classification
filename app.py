@@ -64,13 +64,13 @@ You can use this application to predict which therapeutic class a drug will fall
 
 # Sidebar
 with st.sidebar.header('1. Upload your CSV data'):
-    uploaded_file = st.sidebar.file_uploader("Upload your input file", type=['txt'])
+    uploaded_file = st.sidebar.file_uploader("Upload your input file", type=['csv'])
     st.sidebar.markdown("""
 [Example input file](https://raw.githubusercontent.com/dataprofessor/bioactivity-prediction-app/main/example_acetylcholinesterase.txt)
 """)
 
 if st.sidebar.button('Predict'):
-    load_data = pd.read_table(uploaded_file, sep=' ', header=None)
+    load_data = pd.read_table(uploaded_file, sep=',', header=None)
     load_data.to_csv('molecule.smi', sep = '\t', header = False, index = False)
 
     st.header('**Original input data**')
