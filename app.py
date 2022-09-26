@@ -1,7 +1,7 @@
 import pickle
 import streamlit as st
 import pandas as pd
-import xgboost as xgb
+
 from PIL import Image
 import subprocess
 import os
